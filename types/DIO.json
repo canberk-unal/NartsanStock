@@ -1,0 +1,56 @@
+{
+  "id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "name": "Diode",
+  "code": "DIO",
+  "description": "Doğrultucu, Schottky, Zener, TVS ve LED diyotlar",
+  "color": "red",
+  "next_seq": 1,
+  "fields": [
+    {
+      "id": "933f5941-1127-4975-8c76-e6da485fab9f",
+      "label": "Diode Type",
+      "data_type": "select",
+      "unit": "",
+      "options": [
+        "Rectifier",
+        "Schottky",
+        "Zener",
+        "TVS",
+        "Switching",
+        "LED",
+        "Bridge"
+      ],
+      "required": true,
+      "show_in_table": true
+    },
+    {
+      "id": "4f1547d8-4621-4989-a940-a4edaa789588",
+      "label": "Reverse Voltage",
+      "data_type": "measure",
+      "unit": "V",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "4b96c41b-d254-4c5c-8b82-1a7e3a3a8b84",
+      "label": "Forward Current",
+      "data_type": "measure",
+      "unit": "A",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "25dc3900-789d-4e1d-9322-a4d708ac4106",
+      "label": "Forward Voltage",
+      "data_type": "measure",
+      "unit": "V",
+      "options": [],
+      "required": false,
+      "show_in_table": false
+    }
+  ],
+  "created_at": "2026-11-18T12:52:42.005Z",
+  "updated_at": "2026-11-18T12:52:42.005Z"
+}

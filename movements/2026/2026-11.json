@@ -1,0 +1,13 @@
+[
+  {
+    "id": "65d617aa-45a9-42c4-8916-60e942201705",
+    "component_id": "37eb8f07-ff27-4c06-96b5-b2eab24bb320",
+    "kind": "in",
+    "quantity": 100,
+    "balance": 100,
+    "reference": "",
+    "note": "Initial stock",
+    "user": "canberk ünal",
+    "created_at": "2026-11-18T13:45:40.823Z"
+  }
+]

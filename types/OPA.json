@@ -1,0 +1,57 @@
+{
+  "id": "f2bcca15-8377-4995-916a-86882cdd381a",
+  "name": "Opamp",
+  "code": "OPA",
+  "description": "İşlemsel yükselteçler",
+  "color": "grape",
+  "next_seq": 1,
+  "fields": [
+    {
+      "id": "3cd27d25-0ebc-4069-be7e-a09340bd962b",
+      "label": "Channels",
+      "data_type": "number",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "833d84ed-b281-4858-8e8c-d5de172a6fa3",
+      "label": "Gain Bandwidth",
+      "data_type": "measure",
+      "unit": "Hz",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "f414b726-f1e7-48da-a08d-2ccfd691937b",
+      "label": "Slew Rate",
+      "data_type": "measure",
+      "unit": "V/µs",
+      "options": [],
+      "required": false,
+      "show_in_table": false
+    },
+    {
+      "id": "e6b58e2b-7110-4fe2-8bae-910fd2fa2827",
+      "label": "Supply Voltage Max",
+      "data_type": "measure",
+      "unit": "V",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "e12846cd-06d3-4886-9d72-6668535b005d",
+      "label": "Rail-to-Rail",
+      "data_type": "boolean",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    }
+  ],
+  "created_at": "2026-11-18T12:52:42.005Z",
+  "updated_at": "2026-11-18T12:52:42.005Z"
+}

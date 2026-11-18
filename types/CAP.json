@@ -1,0 +1,98 @@
+{
+  "id": "526538c0-515a-4981-963d-1995582cced7",
+  "name": "Capacitor",
+  "code": "CAP",
+  "description": "Seramik, elektrolitik, tantal ve film kondansatörler",
+  "color": "yellow",
+  "next_seq": 2,
+  "fields": [
+    {
+      "id": "579d8698-0f45-44fe-aecd-308c54f03bfd",
+      "label": "Distributor",
+      "data_type": "select",
+      "unit": "",
+      "options": [
+        "Digikey",
+        "Mouser",
+        "Farnell"
+      ],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "3967cb0b-0eca-4633-8268-1c383fd0fd1a",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "8316f3bd-32fd-4d1e-bddf-d5775bc26852",
+      "label": "Capacitance",
+      "data_type": "measure",
+      "unit": "F",
+      "options": [],
+      "required": true,
+      "show_in_table": true
+    },
+    {
+      "id": "1bfcb9cb-ec96-441a-b62e-c42c1bba4488",
+      "label": "Voltage - Rated",
+      "data_type": "measure",
+      "unit": "V",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "c0a6a204-a6cd-4989-81f4-01b9f8a4555b",
+      "label": "Tolerance",
+      "data_type": "select",
+      "unit": "",
+      "options": [
+        "0.1%",
+        "0.5%",
+        "1%",
+        "2%",
+        "5%",
+        "10%",
+        "20%",
+        "+/-0.1pF"
+      ],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "8b9a6369-e792-4169-9cf2-444a7ca10039",
+      "label": "Temperature Coefficient",
+      "data_type": "select",
+      "unit": "",
+      "options": [
+        "C0G/NP0",
+        "X5R",
+        "X7R",
+        "X7S",
+        "Y5V",
+        "Aluminum Electrolytic",
+        "Tantalum",
+        "Polymer",
+        "Film"
+      ],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "7eb29944-283e-41da-b9a9-84b1894c37bc",
+      "label": "Operating Temperature",
+      "data_type": "range",
+      "unit": "°C",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    }
+  ],
+  "created_at": "2026-11-18T12:52:42.005Z",
+  "updated_at": "2026-11-18T13:44:31.207Z"
+}

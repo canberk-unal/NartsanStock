@@ -1,0 +1,57 @@
+{
+  "id": "75558874-cb71-49bc-a01c-b69239554ecd",
+  "name": "Inductor",
+  "code": "IND",
+  "description": "Bobinler ve ferrit boncuklar",
+  "color": "teal",
+  "next_seq": 1,
+  "fields": [
+    {
+      "id": "dcce2d83-cd06-458c-9f28-5f801aaf19e0",
+      "label": "Inductance",
+      "data_type": "measure",
+      "unit": "H",
+      "options": [],
+      "required": true,
+      "show_in_table": true
+    },
+    {
+      "id": "054fc797-0ee5-45d3-b48b-d5974397fcf9",
+      "label": "Rated Current",
+      "data_type": "measure",
+      "unit": "A",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "127b59c5-c8d1-4cac-bd73-f37cbd47e43f",
+      "label": "Saturation Current",
+      "data_type": "measure",
+      "unit": "A",
+      "options": [],
+      "required": false,
+      "show_in_table": false
+    },
+    {
+      "id": "63c1579e-3cf3-4373-98fe-f5150d76816b",
+      "label": "DC Resistance",
+      "data_type": "measure",
+      "unit": "Ω",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "794f0ce4-56fa-456c-9828-6925345b490d",
+      "label": "Shielded",
+      "data_type": "boolean",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": false
+    }
+  ],
+  "created_at": "2026-11-18T12:52:42.005Z",
+  "updated_at": "2026-11-18T12:52:42.005Z"
+}
