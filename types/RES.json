@@ -2,9 +2,9 @@
   "id": "d097b6ee-bbdf-4394-81b4-d2d9eb4e2331",
   "name": "Resistor",
   "code": "RES",
-  "description": "Sabit dirençler",
-  "color": "orange",
-  "next_seq": 1,
+  "description": "Resistors",
+  "color": "gray",
+  "next_seq": 2,
   "fields": [
     {
       "id": "02d0f569-b79f-4c66-979c-c4561319454b",
@@ -34,7 +34,7 @@
     },
     {
       "id": "53966f74-d439-4920-a138-b2bc975d32fd",
-      "label": "Power Rating",
+      "label": "Power (Watts)",
       "data_type": "measure",
       "unit": "W",
       "options": [],
@@ -56,8 +56,48 @@
       ],
       "required": false,
       "show_in_table": false
+    },
+    {
+      "id": "dc7fa72e-9699-4d87-bb78-8bdba4968a48",
+      "label": "Temperature Coefficient",
+      "data_type": "measure",
+      "unit": "ppm/C",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "b0e1bad7-b1fb-4873-a091-a95c5d7bd189",
+      "label": "Operating Temperature",
+      "data_type": "range",
+      "unit": "°C",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "377d66c9-d167-4d85-a8ac-46edb29353c4",
+      "label": "Distributor",
+      "data_type": "select",
+      "unit": "",
+      "options": [
+        "Digikey",
+        "Mouser",
+        "Farnell"
+      ],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "b4e332b2-9aa6-401a-8ae5-a1d9858c68ad",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
     }
   ],
   "created_at": "2026-11-18T12:52:42.005Z",
-  "updated_at": "2026-11-18T12:52:42.005Z"
+  "updated_at": "2026-11-18T13:53:12.786Z"
 }

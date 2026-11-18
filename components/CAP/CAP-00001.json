@@ -15,8 +15,6 @@
   "distributor_url": "https://www.digikey.com/en/products/detail/kemet/CBR04C108B5GAC/2732284",
   "notes": "",
   "attributes": {
-    "579d8698-0f45-44fe-aecd-308c54f03bfd": "Digikey",
-    "3967cb0b-0eca-4633-8268-1c383fd0fd1a": "399-6153-1-ND",
     "8316f3bd-32fd-4d1e-bddf-d5775bc26852": 1e-13,
     "1bfcb9cb-ec96-441a-b62e-c42c1bba4488": 50,
     "c0a6a204-a6cd-4989-81f4-01b9f8a4555b": "+/-0.1pF",
@@ -24,7 +22,9 @@
     "7eb29944-283e-41da-b9a9-84b1894c37bc": {
       "min": -55,
       "max": 125
-    }
+    },
+    "579d8698-0f45-44fe-aecd-308c54f03bfd": "Digikey",
+    "3967cb0b-0eca-4633-8268-1c383fd0fd1a": "399-6153-1-ND"
   },
   "created_at": "2026-11-18T13:45:40.823Z",
   "created_by": "canberk ünal",
