@@ -1,0 +1,26 @@
+{
+  "id": "4bdfbfa4-db5a-44fc-b785-1c5273c8727d",
+  "type_id": "f2bcca15-8377-4995-916a-86882cdd381a",
+  "stock_code": "AMP-00017",
+  "mpn": "OPA695IDBVR",
+  "manufacturer": "Texas Instruments",
+  "description": "IC OP AMP 1CH SOT-23-6",
+  "package": "SOT-23-6",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 4.327,
+  "currency": "USD",
+  "datasheet_url": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopa695",
+  "distributor_url": "https://www.digikey.com/en/products/detail/texas-instruments/OPA695IDBVR/1572887",
+  "notes": "",
+  "attributes": {
+    "e6b58e2b-7110-4fe2-8bae-910fd2fa2827": 12,
+    "eba5f4dd-ccc6-48e9-89d2-08be5fffab66": "DigiKey",
+    "fd1d9660-c197-401d-8ae8-9c2348c9ad88": "296-44329-1-ND"
+  },
+  "created_at": "2026-11-19T17:22:30.051Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T17:22:30.051Z",
+  "updated_by": "canberk ünal"
+}

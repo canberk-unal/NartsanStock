@@ -1,0 +1,26 @@
+{
+  "id": "ea17fa93-628f-4b66-ae6e-9626dca755fa",
+  "type_id": "f2bcca15-8377-4995-916a-86882cdd381a",
+  "stock_code": "AMP-00021",
+  "mpn": "ADA4895-1ARJZ-R7",
+  "manufacturer": "Analog Devices Inc.",
+  "description": "IC OP AMP 1CH SOT-23-6",
+  "package": "SOT-23-6",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 5.288,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4895-1_4895-2.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADA4895-1ARJZ-R7/3904667",
+  "notes": "",
+  "attributes": {
+    "e6b58e2b-7110-4fe2-8bae-910fd2fa2827": 10,
+    "eba5f4dd-ccc6-48e9-89d2-08be5fffab66": "DigiKey",
+    "fd1d9660-c197-401d-8ae8-9c2348c9ad88": "505-ADA4895-1ARJZ-R7CT-ND"
+  },
+  "created_at": "2026-11-19T17:22:30.051Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T17:22:30.051Z",
+  "updated_by": "canberk ünal"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ed441309-6a27-472b-9f99-4af98f6e36b0",
+  "type_id": "f2bcca15-8377-4995-916a-86882cdd381a",
+  "stock_code": "AMP-00013",
+  "mpn": "MAX9620AXK+T",
+  "manufacturer": "Analog Devices Inc./Maxim Integrated",
+  "description": "IC OP AMP 1CH SC-70-5",
+  "package": "5-TSSOP, SC-70-5, SOT-353",
+  "location": "",
+  "quantity": 25,
+  "min_quantity": 0,
+  "unit_price": 3.4384,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX9617-MAX9620.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX9620AXK-T/2239091",
+  "notes": "",
+  "attributes": {
+    "833d84ed-b281-4858-8e8c-d5de172a6fa3": 1500000,
+    "e6b58e2b-7110-4fe2-8bae-910fd2fa2827": 5.5,
+    "eba5f4dd-ccc6-48e9-89d2-08be5fffab66": "DigiKey",
+    "fd1d9660-c197-401d-8ae8-9c2348c9ad88": "MAX9620AXK+TCT-ND"
+  },
+  "created_at": "2026-11-19T17:22:30.051Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T17:22:30.051Z",
+  "updated_by": "canberk ünal"
+}

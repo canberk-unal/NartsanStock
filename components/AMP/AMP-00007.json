@@ -1,0 +1,27 @@
+{
+  "id": "3ad64e32-84e4-4159-aeab-6df0e724243f",
+  "type_id": "f2bcca15-8377-4995-916a-86882cdd381a",
+  "stock_code": "AMP-00007",
+  "mpn": "LTC6268IS6-10#TRMPBF",
+  "manufacturer": "Analog Devices Inc.",
+  "description": "IC OP AMP 1CH TSOT-23-6",
+  "package": "SOT-23-6 Thin, TSOT-23-6",
+  "location": "",
+  "quantity": 20,
+  "min_quantity": 0,
+  "unit_price": 9.412,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/626810f.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc/LTC6268IS6-10-TRMPBF/5253537",
+  "notes": "",
+  "attributes": {
+    "833d84ed-b281-4858-8e8c-d5de172a6fa3": 4000000000,
+    "e6b58e2b-7110-4fe2-8bae-910fd2fa2827": 5.25,
+    "eba5f4dd-ccc6-48e9-89d2-08be5fffab66": "DigiKey",
+    "fd1d9660-c197-401d-8ae8-9c2348c9ad88": "505-LTC6268IS6-10#TRMPBFCT-ND"
+  },
+  "created_at": "2026-11-19T17:22:30.051Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T17:22:30.051Z",
+  "updated_by": "canberk ünal"
+}

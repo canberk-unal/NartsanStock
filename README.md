@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **220** kalem, **16.150** adet.
+Toplam **242** kalem, **16.444** adet.
 
 ## Capacitor (62)
 
@@ -98,9 +98,32 @@ _Kayıt yok_
 | `REG-00004` | ADP7182AUJZ-2.5-R7 | DigiKey · 505-ADP7182AUJZ-2.5-R7CT-ND | SOT-23-5 Thin, TSOT-23-5 |  | 10 | 0 |
 | `REG-00006` | MIC5203-4.5YM5-TR | DigiKey · MIC5203-4.5YM5-CT-ND | SC-74A, SOT-753 |  | 10 | 0 |
 
-## Opamp (0)
+## Opamp (22)
 
-_Kayıt yok_
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `AMP-00001` | OPA836IDBVR | 118 MHz · 5,5 V · DigiKey · 296-44388-1-ND | SOT-23-6 |  | 20 | 0 |
+| `AMP-00002` | OPA836IRUNT | 118 MHz · 5,5 V · DigiKey · 296-32199-1-ND | 10-WFQFN |  | 25 | 0 |
+| `AMP-00003` | OPA838IDBVR | 300 MHz · 5,4 V · DigiKey · 296-49853-1-ND | SOT-23-6 |  | 10 | 0 |
+| `AMP-00004` | OPA838SIDCKT | 300 MHz · 5,4 V · DigiKey · 296-48340-1-ND | 6-TSSOP, SC-88, SOT-363 |  | 7 | 0 |
+| `AMP-00005` | OPA855IDSGR | 8 GHz · 5,25 V · DigiKey · 296-53158-1-ND | 8-WFDFN Exposed Pad |  | 20 | 0 |
+| `AMP-00006` | OPA858IDSGR | 5,5 GHz · 5,25 V · DigiKey · 296-OPA858IDSGRCT-ND | 8-WFDFN Exposed Pad |  | 10 | 0 |
+| `AMP-00007` | LTC6268IS6-10#TRMPBF | 4 GHz · 5,25 V · DigiKey · 505-LTC6268IS6-10#TRMPBFCT-ND | SOT-23-6 Thin, TSOT-23-6 |  | 20 | 0 |
+| `AMP-00008` | AD8065ARTZ-REEL | 24 V · DigiKey · AD8065ARTZ-REELCT-ND | SC-74A, SOT-753 |  | 12 | 0 |
+| `AMP-00009` | AD8067ARTZ-REEL7 | 24 V · DigiKey · 505-AD8067ARTZ-REEL7CT-ND | SC-74A, SOT-753 |  | 10 | 0 |
+| `AMP-00010` | AD8038AKSZ-REEL7 | 12 V · DigiKey · 505-AD8038AKSZ-REEL7CT-ND | 5-TSSOP, SC-70-5, SOT-353 |  | 25 | 0 |
+| `AMP-00011` | ADA4807-1ARJZ-R7 | 11 V · DigiKey · 505-ADA4807-1ARJZ-R7CT-ND | SOT-23-6 |  | 10 | 0 |
+| `AMP-00012` | ADA4807-2ARMZ | 11 V · DigiKey · 505-ADA4807-2ARMZ-ND | 8-TSSOP, 8-MSOP (0.118", 3.00mm Width) |  | 10 | 0 |
+| `AMP-00013` | MAX9620AXK+T | 1,5 MHz · 5,5 V · DigiKey · MAX9620AXK+TCT-ND | 5-TSSOP, SC-70-5, SOT-353 |  | 25 | 0 |
+| `AMP-00014` | MAX4450EUK+T | 11 V · DigiKey · MAX4450EUK+TCT-ND | SC-74A, SOT-753 |  | 10 | 0 |
+| `AMP-00015` | LMH6629SDX/NOPB | 5,5 V · DigiKey · 296-LMH6629SDX/NOPBCT-ND | 8-WFDFN Exposed Pad |  | 10 | 0 |
+| `AMP-00016` | LMH6629MFX/NOPB | 5,5 V · DigiKey · 296-LMH6629MFX/NOPBCT-ND | SC-74A, SOT-753 |  | 10 | 0 |
+| `AMP-00017` | OPA695IDBVR | 12 V · DigiKey · 296-44329-1-ND | SOT-23-6 |  | 10 | 0 |
+| `AMP-00018` | OP184FSZ-REEL7 | 4,25 MHz · 36 V · DigiKey · OP184FSZ-REEL7CT-ND | 8-SOIC (0.154", 3.90mm Width) |  | 10 | 0 |
+| `AMP-00019` | OP284FSZ-REEL | 4,25 MHz · 36 V · DigiKey · OP284FSZ-REELCT-ND | 8-SOIC (0.154", 3.90mm Width) |  | 10 | 0 |
+| `AMP-00020` | ADA4807-1AKSZ-R7 | 11 V · DigiKey · 505-ADA4807-1AKSZ-R7CT-ND | 6-TSSOP, SC-88, SOT-363 |  | 10 | 0 |
+| `AMP-00021` | ADA4895-1ARJZ-R7 | 10 V · DigiKey · 505-ADA4895-1ARJZ-R7CT-ND | SOT-23-6 |  | 10 | 0 |
+| `AMP-00022` | ADA4895-2ARMZ-R7 | 1,5 GHz · 10 V · DigiKey · ADA4895-2ARMZ-R7CT-ND | 10-TFSOP, 10-MSOP (0.118", 3.00mm Width) |  | 10 | 0 |
 
 ## Resistor (148)
 
