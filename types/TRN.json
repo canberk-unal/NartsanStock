@@ -3,62 +3,55 @@
   "name": "Transistor",
   "code": "TRN",
   "description": "BJT, MOSFET ve IGBT transistörler",
-  "color": "violet",
-  "next_seq": 1,
+  "color": "cyan",
+  "next_seq": 6,
   "fields": [
     {
       "id": "2a95ac17-9627-47ac-a2b3-47b4a1b2fd61",
       "label": "Transistor Type",
-      "data_type": "select",
+      "data_type": "text",
       "unit": "",
-      "options": [
-        "NPN",
-        "PNP",
-        "N-Channel MOSFET",
-        "P-Channel MOSFET",
-        "IGBT",
-        "JFET"
-      ],
-      "required": true,
-      "show_in_table": true
-    },
-    {
-      "id": "42626c2a-7782-486d-beb3-2fddbc09b531",
-      "label": "Vce / Vds Max",
-      "data_type": "measure",
-      "unit": "V",
-      "options": [],
-      "required": false,
-      "show_in_table": true
-    },
-    {
-      "id": "d783e962-93ee-4fba-bb90-7a8d82385a54",
-      "label": "Ic / Id Max",
-      "data_type": "measure",
-      "unit": "A",
-      "options": [],
-      "required": false,
-      "show_in_table": true
-    },
-    {
-      "id": "a2c1a74e-6684-468f-8a74-67f169a6766d",
-      "label": "Rds(on)",
-      "data_type": "measure",
-      "unit": "Ω",
       "options": [],
       "required": false,
       "show_in_table": true
     },
     {
       "id": "378651b8-9d71-48cf-9967-0ad84e61f7ee",
-      "label": "Power Dissipation",
-      "data_type": "measure",
+      "label": "Current - Collector (Ic) (Max)",
+      "data_type": "number",
+      "unit": "A",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "cd95d242-243f-4e14-a0f2-6202f87e9356",
+      "label": "Power - Max",
+      "data_type": "number",
       "unit": "W",
       "options": [],
       "required": false,
-      "show_in_table": false
+      "show_in_table": true
+    },
+    {
+      "id": "3e5e15bf-ea8b-479f-85a0-642ec87aa20a",
+      "label": "Distributor",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "cc2583a1-ed45-4457-bdf8-913fb246532e",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
     }
   ],
   "created_at": "2026-11-18T12:52:42.005Z",
-  "updated_at": "2026-11-18T12:52:42.005Z"
+  "updated_at": "2026-11-19T20:12:45.430Z"
 }

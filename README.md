@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **267** kalem, **16.888** adet.
+Toplam **272** kalem, **16.953** adet.
 
 ## Capacitor (62)
 
@@ -340,6 +340,12 @@ _Kayıt yok_
 |---|---|---|---|---|--:|--:|
 | `SWI-00001` | LM2776DBVR | DigiKey · 296-43957-1-ND | SOT-23-6 |  | 10 | 0 |
 
-## Transistor (0)
+## Transistor (5)
 
-_Kayıt yok_
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `TRN-00001` | 2SC4102U3HZGT106R | NPN · 50 A · 200 W · DigiKey · 846-2SC4102U3HZGT106RCT-ND | SC-70, SOT-323 |  | 10 | 0 |
+| `TRN-00002` | 2SC3906KT146S | NPN · 50 A · 200 W · DigiKey · 2SC3906KT146SCT-ND | TO-236-3, SC-59, SOT-23-3 |  | 10 | 0 |
+| `TRN-00003` | CA3509M4 | DigiKey · CA3509M4-ND | SOT-343F |  | 25 | 0 |
+| `TRN-00004` | FMMT625TA | NPN · 1 A · 625 W · DigiKey · FMMT625CT-ND | TO-236-3, SC-59, SOT-23-3 |  | 10 | 0 |
+| `TRN-00005` | 2SCR513RTL | NPN · 1 A · 500 W · DigiKey · 846-2SCR513RTLCT-ND | SC-96 |  | 10 | 0 |

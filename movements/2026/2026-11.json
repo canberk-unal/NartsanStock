@@ -2935,5 +2935,60 @@
     "note": "Excel import (DigiKey)",
     "user": "canberk ünal",
     "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "9a089105-d5b3-4cea-bfbe-524a97e0bb72",
+    "component_id": "d822fa08-8839-4583-a796-698b69b9ed42",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Transistor",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T20:14:43.826Z"
+  },
+  {
+    "id": "9bcc9bc0-bdf8-4f64-8c0c-c0242f441d44",
+    "component_id": "8ea11ab3-354b-4f66-a2ac-bffe1b6b2273",
+    "kind": "in",
+    "quantity": 25,
+    "balance": 25,
+    "reference": "Nartsan Transistor",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T20:14:43.826Z"
+  },
+  {
+    "id": "b6cf9408-9bdb-4340-8334-a8e8a5e09560",
+    "component_id": "a147bfc3-dc68-49ac-afc6-1f4e96ed2dda",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Transistor",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T20:14:43.826Z"
+  },
+  {
+    "id": "b855ad38-902f-4d1e-9879-059d71ce00f0",
+    "component_id": "a37e3355-398d-4f2a-bde2-a9bcc10de192",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Transistor",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T20:14:43.826Z"
+  },
+  {
+    "id": "e0ac5e48-d38d-410d-a765-749d8787903f",
+    "component_id": "50ce256c-502b-41ad-9aa3-a15cfd8b9823",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Transistor",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T20:14:43.826Z"
   }
 ]

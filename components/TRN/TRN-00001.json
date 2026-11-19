@@ -1,0 +1,28 @@
+{
+  "id": "a147bfc3-dc68-49ac-afc6-1f4e96ed2dda",
+  "type_id": "73f52aba-8442-4b84-a19b-53455706c492",
+  "stock_code": "TRN-00001",
+  "mpn": "2SC4102U3HZGT106R",
+  "manufacturer": "Rohm Semiconductor",
+  "description": "TRANS NPN 120V 0.05A UMT3",
+  "package": "SC-70, SOT-323",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 0.365,
+  "currency": "USD",
+  "datasheet_url": "https://d1d2qsbl8m0m72.cloudfront.net/en/products/databook/datasheet/discrete/transistor/bipolar/2sc4102u3hzgt106r-e.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/rohm-semiconductor/2SC4102U3HZGT106R/10670887",
+  "notes": "",
+  "attributes": {
+    "2a95ac17-9627-47ac-a2b3-47b4a1b2fd61": "NPN",
+    "378651b8-9d71-48cf-9967-0ad84e61f7ee": 50,
+    "cd95d242-243f-4e14-a0f2-6202f87e9356": 200,
+    "3e5e15bf-ea8b-479f-85a0-642ec87aa20a": "DigiKey",
+    "cc2583a1-ed45-4457-bdf8-913fb246532e": "846-2SC4102U3HZGT106RCT-ND"
+  },
+  "created_at": "2026-11-19T20:14:43.826Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T20:14:43.826Z",
+  "updated_by": "canberk ünal"
+}
