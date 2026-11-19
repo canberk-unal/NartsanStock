@@ -1,0 +1,26 @@
+{
+  "id": "1632becb-16be-47bc-b244-6b26be957d78",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00001",
+  "mpn": "BAT41ZFILM",
+  "manufacturer": "STMicroelectronics",
+  "description": "DIODE SCHOTTKY 100V 200MA SOD123",
+  "package": "SOD-123",
+  "location": "",
+  "quantity": 30,
+  "min_quantity": 0,
+  "unit_price": 0.229,
+  "currency": "USD",
+  "datasheet_url": "https://www.st.com/content/ccc/resource/technical/document/datasheet/5b/cd/d8/0a/45/56/41/6c/CD00130227.pdf/files/CD00130227.pdf/jcr:content/translations/en.CD00130227.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/stmicroelectronics/BAT41ZFILM/1207025",
+  "notes": "",
+  "attributes": {
+    "933f5941-1127-4975-8c76-e6da485fab9f": "Schottky",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "497-5558-1-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c732405a-01bb-4844-8f6d-500e2b1abf71",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00011",
+  "mpn": "MADP-000907-14020P",
+  "manufacturer": "MACOM Technology Solutions",
+  "description": "RF DIODE PIN 45V 100MW DIE",
+  "package": "Die",
+  "location": "",
+  "quantity": 25,
+  "min_quantity": 0,
+  "unit_price": 4.3408,
+  "currency": "USD",
+  "datasheet_url": "https://cdn.macom.com/datasheets/MADP-000907-14020x.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/macom-technology-solutions/MADP-000907-14020P/12639708",
+  "notes": "",
+  "attributes": {
+    "4f1547d8-4621-4989-a940-a4edaa789588": "PIN - Single",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "1465-MADP-000907-14020PCT-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

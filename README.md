@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **249** kalem, **16.498** adet.
+Toplam **267** kalem, **16.888** adet.
 
 ## Capacitor (62)
 
@@ -82,9 +82,28 @@ Toplam **249** kalem, **16.498** adet.
 | `CMP-00005` | LTC6752ISC6-4#TRMPBF | DigiKey · 505-LTC6752ISC6-4#TRMPBFCT-ND | 6-TSSOP, SC-88, SOT-363 |  | 10 | 0 |
 | `CMP-00006` | MAX9010EXT+T | DigiKey · MAX9010EXT+TCT-ND | 6-TSSOP, SC-88, SOT-363 |  | 10 | 0 |
 
-## Diode (0)
+## Diode (18)
 
-_Kayıt yok_
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `DIO-00001` | BAT41ZFILM | Schottky · DigiKey · 497-5558-1-ND | SOD-123 |  | 30 | 0 |
+| `DIO-00002` | 1N4148WQ-7-F | Standard · DigiKey · 1N4148WQ-7-FDICT-ND | SOD-123 |  | 30 | 0 |
+| `DIO-00003` | RB520CM-60T2R | Schottky · DigiKey · RB520CM-60T2RCT-ND | 2-SMD, Flat Leads |  | 20 | 0 |
+| `DIO-00004` | BAT46W-7-F | Schottky · DigiKey · BAT46W-7FDICT-ND | SOD-123 |  | 30 | 0 |
+| `DIO-00005` | SMS3922-040LF | Schottky - Single · DigiKey · 863-1693-1-ND | SOD-882 |  | 25 | 0 |
+| `DIO-00006` | TMMBAT41FILM | Schottky · DigiKey · 497-7669-1-ND | DO-213AA (Glass) |  | 30 | 0 |
+| `DIO-00007` | BAT46W-HE3_A-18 | Schottky · DigiKey · 112-BAT46W-HE3_A-18CT-ND | SOD-123 |  | 20 | 0 |
+| `DIO-00008` | BAT15099E6327HTSA1 | Schottky - 2 Independent · DigiKey · BAT15099E6327HTSA1CT-ND | TO-253-4, TO-253AA |  | 25 | 0 |
+| `DIO-00009` | MBD330DWT1G | Schottky - 2 Independent · DigiKey · MBD330DWT1GOSCT-ND | 6-TSSOP, SC-88, SOT-363 |  | 35 | 0 |
+| `DIO-00010` | SMS3923-079LF | Schottky - Single · DigiKey · 863-1695-1-ND | SC-79, SOD-523 |  | 25 | 0 |
+| `DIO-00011` | MADP-000907-14020P | PIN - Single · DigiKey · 1465-MADP-000907-14020PCT-ND | Die |  | 25 | 0 |
+| `DIO-00012` | SMS3923-040LF | Schottky - Single · DigiKey · 863-1694-1-ND | SOD-882 |  | 25 | 0 |
+| `DIO-00013` | BAV99W,115 | Standard · DigiKey · 1727-2915-1-ND | SC-70, SOT-323 |  | 20 | 0 |
+| `DIO-00014` | TPM2850-01 | Schottky - Single · DigiKey · 4386-TPM2850-01CT-ND | SC-79, SOD-523 |  | 10 | 0 |
+| `DIO-00015` | BAT1502ELE6327XTMA1 | Schottky - Single · DigiKey · BAT1502ELE6327XTMA1CT-ND | 0402 (1006 Metric) |  | 10 | 0 |
+| `DIO-00016` | BAT1504WH6327XTSA1 | Schottky - 1 Pair Series Connection · DigiKey · BAT1504WH6327XTSA1CT-ND | SC-70, SOT-323 |  | 10 | 0 |
+| `DIO-00017` | TPM2872 | Schottky - Single · DigiKey · 4386-TPM2872CT-ND | SC-79, SOD-523 |  | 10 | 0 |
+| `DIO-00018` | SMP1345-040LF | PIN - Single · DigiKey · 863-1145-1-ND | 0402 (1005 Metric) |  | 10 | 0 |
 
 ## Filters (1)
 

@@ -1,0 +1,26 @@
+{
+  "id": "2e4a715e-af3a-4636-bb52-4f9cb444c094",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00008",
+  "mpn": "BAT15099E6327HTSA1",
+  "manufacturer": "Infineon Technologies",
+  "description": "DIODE SCHOTTKY 4V 100MW SOT143-4",
+  "package": "TO-253-4, TO-253AA",
+  "location": "",
+  "quantity": 25,
+  "min_quantity": 0,
+  "unit_price": 0.338,
+  "currency": "USD",
+  "datasheet_url": "https://rocelec.widen.net/view/pdf/qxnorbh6l6/INFNS15420-1.pdf?t.download=true&u=5oefqw",
+  "distributor_url": "https://www.digikey.com/en/products/detail/infineon-technologies/BAT15099E6327HTSA1/1280919",
+  "notes": "",
+  "attributes": {
+    "4f1547d8-4621-4989-a940-a4edaa789588": "Schottky - 2 Independent",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "BAT15099E6327HTSA1CT-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

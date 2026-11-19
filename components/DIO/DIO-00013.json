@@ -1,0 +1,26 @@
+{
+  "id": "72d5334b-ab13-4dce-a5ac-f38de2bdac6b",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00013",
+  "mpn": "BAV99W,115",
+  "manufacturer": "Nexperia USA Inc.",
+  "description": "DIODE ARRAY GP 100V 150MA SOT323",
+  "package": "SC-70, SOT-323",
+  "location": "",
+  "quantity": 20,
+  "min_quantity": 0,
+  "unit_price": 0.099,
+  "currency": "USD",
+  "datasheet_url": "https://assets.nexperia.com/documents/data-sheet/BAV99W.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BAV99W-115/763229",
+  "notes": "",
+  "attributes": {
+    "933f5941-1127-4975-8c76-e6da485fab9f": "Standard",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "1727-2915-1-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

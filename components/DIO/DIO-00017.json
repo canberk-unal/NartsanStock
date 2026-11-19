@@ -1,0 +1,26 @@
+{
+  "id": "feddf21e-a19d-4b58-a364-d78edd2d3226",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00017",
+  "mpn": "TPM2872",
+  "manufacturer": "DNmicron",
+  "description": "RF DIODE SCHOTTKY 4V SOD-523",
+  "package": "SC-79, SOD-523",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 1.249,
+  "currency": "USD",
+  "datasheet_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/201/TPM2872D.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/dnmicron/TPM2872/25796318",
+  "notes": "",
+  "attributes": {
+    "4f1547d8-4621-4989-a940-a4edaa789588": "Schottky - Single",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "4386-TPM2872CT-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

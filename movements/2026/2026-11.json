@@ -2737,5 +2737,203 @@
     "note": "Excel import (DigiKey)",
     "user": "canberk ünal",
     "created_at": "2026-11-19T19:21:52.712Z"
+  },
+  {
+    "id": "05c66a19-2f4d-46ba-89b3-1a576d82a0c0",
+    "component_id": "1aee20ab-0a5e-4071-a65a-7f6f119029ba",
+    "kind": "in",
+    "quantity": 35,
+    "balance": 35,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "145db394-4133-42de-bb77-92ad10b32c18",
+    "component_id": "72d5334b-ab13-4dce-a5ac-f38de2bdac6b",
+    "kind": "in",
+    "quantity": 20,
+    "balance": 20,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "1f2e3c5f-cd97-43a9-8cde-3b13f8c09c0b",
+    "component_id": "7c41be31-9961-4a99-a784-6d1aa1f29d9d",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "2645112e-8e94-4747-9790-5c840c0a017f",
+    "component_id": "2e4a715e-af3a-4636-bb52-4f9cb444c094",
+    "kind": "in",
+    "quantity": 25,
+    "balance": 25,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "32589d55-6d52-49c1-9001-99837120e370",
+    "component_id": "dc9cec45-7077-4f97-add3-59671c4abdcd",
+    "kind": "in",
+    "quantity": 30,
+    "balance": 30,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "41f6599c-414b-45ff-bc14-f404707c4801",
+    "component_id": "bfb461e1-c81f-4b47-82aa-aa16b7679e2d",
+    "kind": "in",
+    "quantity": 25,
+    "balance": 25,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "469abcdb-5f65-4fea-8a81-be954bacd90d",
+    "component_id": "fe2b3fb3-a53d-496d-9085-9e36cb3ec5d0",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "6c3287f0-568f-4a92-b3f7-fe758eccb41e",
+    "component_id": "153d357d-8531-4a85-8046-c8ff36226b70",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "76621e0b-209a-427b-9c61-848787def5ae",
+    "component_id": "6f83eeb1-2e25-46bc-a7f7-2c9872d58719",
+    "kind": "in",
+    "quantity": 30,
+    "balance": 30,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "76efd491-0bcb-409c-add6-1abd248eabc3",
+    "component_id": "aec089ed-a8ff-4783-912d-60a6079d152e",
+    "kind": "in",
+    "quantity": 25,
+    "balance": 25,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "77fd3507-282f-4797-867d-b2c97eaf515c",
+    "component_id": "8af96ba8-9610-4dc6-8074-4234d27de0e9",
+    "kind": "in",
+    "quantity": 20,
+    "balance": 20,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "7d792581-5978-44c8-a52b-18cc88033444",
+    "component_id": "b556d4f4-2f0d-4bda-aa1f-ee195305077b",
+    "kind": "in",
+    "quantity": 30,
+    "balance": 30,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "850d80b7-2719-4395-9c8d-a4a5f58a7832",
+    "component_id": "0b56b355-da2a-4449-83b2-1faf4074cea4",
+    "kind": "in",
+    "quantity": 20,
+    "balance": 20,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "86c9f76b-2406-4628-8a95-8dce5d60c121",
+    "component_id": "1632becb-16be-47bc-b244-6b26be957d78",
+    "kind": "in",
+    "quantity": 30,
+    "balance": 30,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "90b542b4-fef6-4c0e-8b24-9ae9bf3d321e",
+    "component_id": "d8f7552e-fbd9-46ac-a049-20a860aba2d6",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "a552dc22-f803-45b0-94f4-7a515cfa4837",
+    "component_id": "feddf21e-a19d-4b58-a364-d78edd2d3226",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "b687771f-50e5-46e4-aaeb-2daa614e79a7",
+    "component_id": "c732405a-01bb-4844-8f6d-500e2b1abf71",
+    "kind": "in",
+    "quantity": 25,
+    "balance": 25,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
+  },
+  {
+    "id": "c75f0aac-00f7-4f1d-96fa-5979583e6e8e",
+    "component_id": "8b59a573-216d-4ec0-9b12-74f34e45cc65",
+    "kind": "in",
+    "quantity": 25,
+    "balance": 25,
+    "reference": "Nartsan Diodes",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:50:19.017Z"
   }
 ]

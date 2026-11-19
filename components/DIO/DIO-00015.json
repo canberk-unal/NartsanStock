@@ -1,0 +1,26 @@
+{
+  "id": "fe2b3fb3-a53d-496d-9085-9e36cb3ec5d0",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00015",
+  "mpn": "BAT1502ELE6327XTMA1",
+  "manufacturer": "Infineon Technologies",
+  "description": "DIODE SCHOTTKY 4V 100MW TSLP219",
+  "package": "0402 (1006 Metric)",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 0.331,
+  "currency": "USD",
+  "datasheet_url": "https://www.infineon.com/dgdl/Infineon-BAT15-02EL-DS-v01_00-EN.pdf?fileId=5546d46265f064ff01663895df9e4e74",
+  "distributor_url": "https://www.digikey.com/en/products/detail/infineon-technologies/BAT1502ELE6327XTMA1/5959844",
+  "notes": "",
+  "attributes": {
+    "4f1547d8-4621-4989-a940-a4edaa789588": "Schottky - Single",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "BAT1502ELE6327XTMA1CT-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b556d4f4-2f0d-4bda-aa1f-ee195305077b",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00002",
+  "mpn": "1N4148WQ-7-F",
+  "manufacturer": "Diodes Incorporated",
+  "description": "DIODE STANDARD 100V 300MA SOD123",
+  "package": "SOD-123",
+  "location": "",
+  "quantity": 30,
+  "min_quantity": 0,
+  "unit_price": 0.1016,
+  "currency": "USD",
+  "datasheet_url": "https://www.diodes.com/assets/Datasheets/BAV16W_1N4148W.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148WQ-7-F/8136126",
+  "notes": "",
+  "attributes": {
+    "933f5941-1127-4975-8c76-e6da485fab9f": "Standard",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "1N4148WQ-7-FDICT-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

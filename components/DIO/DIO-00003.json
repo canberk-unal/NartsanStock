@@ -1,0 +1,26 @@
+{
+  "id": "0b56b355-da2a-4449-83b2-1faf4074cea4",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00003",
+  "mpn": "RB520CM-60T2R",
+  "manufacturer": "Rohm Semiconductor",
+  "description": "DIODE SCHOTTKY 60V 100MAVMN2M",
+  "package": "2-SMD, Flat Leads",
+  "location": "",
+  "quantity": 20,
+  "min_quantity": 0,
+  "unit_price": 0.165,
+  "currency": "USD",
+  "datasheet_url": "https://www.rohm.com/datasheet?p=RB520CM-60&dist=Digi-key&media=referral&source=digi-key.com&campaign=Digi-key",
+  "distributor_url": "https://www.digikey.com/en/products/detail/rohm-semiconductor/RB520CM-60T2R/5721246",
+  "notes": "",
+  "attributes": {
+    "933f5941-1127-4975-8c76-e6da485fab9f": "Schottky",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "RB520CM-60T2RCT-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

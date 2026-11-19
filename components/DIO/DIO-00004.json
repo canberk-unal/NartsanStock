@@ -1,0 +1,26 @@
+{
+  "id": "6f83eeb1-2e25-46bc-a7f7-2c9872d58719",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00004",
+  "mpn": "BAT46W-7-F",
+  "manufacturer": "Diodes Incorporated",
+  "description": "DIODE SCHOTTKY 100V 150MA SOD123",
+  "package": "SOD-123",
+  "location": "",
+  "quantity": 30,
+  "min_quantity": 0,
+  "unit_price": 0.1808,
+  "currency": "USD",
+  "datasheet_url": "https://www.diodes.com/assets/Datasheets/BAT46W.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/diodes-incorporated/BAT46W-7-F/1934440",
+  "notes": "",
+  "attributes": {
+    "933f5941-1127-4975-8c76-e6da485fab9f": "Schottky",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "BAT46W-7FDICT-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

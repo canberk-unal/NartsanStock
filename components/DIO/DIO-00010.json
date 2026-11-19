@@ -1,0 +1,26 @@
+{
+  "id": "aec089ed-a8ff-4783-912d-60a6079d152e",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00010",
+  "mpn": "SMS3923-079LF",
+  "manufacturer": "Skyworks Solutions Inc.",
+  "description": "RF DIODE SCHOTTKY 20V 75MW SC-79",
+  "package": "SC-79, SOD-523",
+  "location": "",
+  "quantity": 25,
+  "min_quantity": 0,
+  "unit_price": 3.6228,
+  "currency": "USD",
+  "datasheet_url": "https://www.skyworksinc.com/-/media/774A119F8939424F801CA8A44572D829.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMS3923-079LF/5396270",
+  "notes": "",
+  "attributes": {
+    "4f1547d8-4621-4989-a940-a4edaa789588": "Schottky - Single",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "863-1695-1-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}

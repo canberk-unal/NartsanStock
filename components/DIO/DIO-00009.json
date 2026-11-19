@@ -1,0 +1,26 @@
+{
+  "id": "1aee20ab-0a5e-4071-a65a-7f6f119029ba",
+  "type_id": "f8a122b8-367c-4511-8af3-60ae96b4ad35",
+  "stock_code": "DIO-00009",
+  "mpn": "MBD330DWT1G",
+  "manufacturer": "onsemi",
+  "description": "RF DIODE SCHOTTKY 30V 120MW SC88",
+  "package": "6-TSSOP, SC-88, SOT-363",
+  "location": "",
+  "quantity": 35,
+  "min_quantity": 0,
+  "unit_price": 0.1124,
+  "currency": "USD",
+  "datasheet_url": "https://www.onsemi.com/pdf/datasheet/mbd110dwt1-d.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/onsemi/MBD330DWT1G/1477138",
+  "notes": "",
+  "attributes": {
+    "4f1547d8-4621-4989-a940-a4edaa789588": "Schottky - 2 Independent",
+    "25dc3900-789d-4e1d-9322-a4d708ac4106": "DigiKey",
+    "c7e88ed7-5ffe-4f55-a9d0-1d938dd2cf1b": "MBD330DWT1GOSCT-ND"
+  },
+  "created_at": "2026-11-19T19:50:19.017Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:50:19.017Z",
+  "updated_by": "canberk ünal"
+}
