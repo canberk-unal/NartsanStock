@@ -1,0 +1,28 @@
+{
+  "id": "7d1ac148-f1e4-405b-9c2d-66a82fe921d8",
+  "type_id": "d39d562e-4053-45d4-b2c4-796dfb4e6058",
+  "stock_code": "POT-00001",
+  "mpn": "AD5241BRUZ10",
+  "manufacturer": "Analog Devices Inc.",
+  "description": "IC DIG POT 10K 14-TSSOP",
+  "package": "14-TSSOP (0.173\", 4.40mm Width)",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 2.939,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad5241_ad5242.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc/AD5241BRUZ10/617289",
+  "notes": "",
+  "attributes": {
+    "b6c07bba-de92-4ee6-beb8-54d0d3731772": 256,
+    "359cdc70-9b88-4b5c-aef2-aabbfc70567a": 10,
+    "23c9d216-304a-4c45-9380-6bbd68aad898": "I2C",
+    "b5f61bbc-a96b-4f52-91ed-e05c4afd3dca": "DigiKey",
+    "90dcbb08-9605-4378-b836-73220129e19e": "AD5241BRUZ10-ND"
+  },
+  "created_at": "2026-11-19T19:21:52.712Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:21:52.712Z",
+  "updated_by": "canberk ünal"
+}

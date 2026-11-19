@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **248** kalem, **16.488** adet.
+Toplam **249** kalem, **16.498** adet.
 
 ## Capacitor (62)
 
@@ -136,6 +136,12 @@ _Kayıt yok_
 | `AMP-00020` | ADA4807-1AKSZ-R7 | 11 V · DigiKey · 505-ADA4807-1AKSZ-R7CT-ND | 6-TSSOP, SC-88, SOT-363 |  | 10 | 0 |
 | `AMP-00021` | ADA4895-1ARJZ-R7 | 10 V · DigiKey · 505-ADA4895-1ARJZ-R7CT-ND | SOT-23-6 |  | 10 | 0 |
 | `AMP-00022` | ADA4895-2ARMZ-R7 | 1,5 GHz · 10 V · DigiKey · ADA4895-2ARMZ-R7CT-ND | 10-TFSOP, 10-MSOP (0.118", 3.00mm Width) |  | 10 | 0 |
+
+## Potentiometer (1)
+
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `POT-00001` | AD5241BRUZ10 | 256 · 10 Ω · I2C · DigiKey · AD5241BRUZ10-ND | 14-TSSOP (0.173", 4.40mm Width) |  | 10 | 0 |
 
 ## Reference (2)
 

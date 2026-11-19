@@ -2726,5 +2726,16 @@
     "note": "Excel import (DigiKey)",
     "user": "canberk ünal",
     "created_at": "2026-11-19T19:10:31.518Z"
+  },
+  {
+    "id": "b2e39f41-6a75-4995-9362-55b0c1c116bf",
+    "component_id": "7d1ac148-f1e4-405b-9c2d-66a82fe921d8",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Potentiometer",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:21:52.712Z"
   }
 ]
