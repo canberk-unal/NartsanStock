@@ -2308,5 +2308,16 @@
     "note": "Excel import (DigiKey)",
     "user": "canberk ünal",
     "created_at": "2026-11-19T14:22:33.415Z"
+  },
+  {
+    "id": "4bfaa864-baf9-4f38-bfbc-ed01f2f314c6",
+    "component_id": "b5e13d01-f9c2-4921-aa53-aefe74b5b227",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "",
+    "note": "Initial stock",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T16:51:15.432Z"
   }
 ]

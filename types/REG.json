@@ -1,0 +1,30 @@
+{
+  "id": "784a46d5-e344-458a-9708-b7d9a19b16ab",
+  "name": "Linear Regulator",
+  "code": "REG",
+  "description": "Linear Regulators",
+  "color": "blue",
+  "next_seq": 2,
+  "fields": [
+    {
+      "id": "4427e92a-7bcc-4192-80de-a8174e2b706b",
+      "label": "Distributor",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "f5c95e0f-4e09-45ed-944a-c4d81dbb674a",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    }
+  ],
+  "created_at": "2026-11-19T16:47:00.382Z",
+  "updated_at": "2026-11-19T16:49:20.581Z"
+}

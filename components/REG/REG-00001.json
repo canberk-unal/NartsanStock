@@ -1,0 +1,25 @@
+{
+  "id": "b5e13d01-f9c2-4921-aa53-aefe74b5b227",
+  "type_id": "784a46d5-e344-458a-9708-b7d9a19b16ab",
+  "stock_code": "REG-00001",
+  "mpn": "ADP7142AUJZ-2.5-R7",
+  "manufacturer": "Analog Devices Inc.",
+  "description": "IC REG LIN 2.5V 200MA TSOT-23-5",
+  "package": "TSOT-23-5",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 3.157,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADP7142AUJZ-2-5-R7/5056894?s=N4IgTCBcDaIKwAY4FoCCARACgdgIwBYxUBVAKQC1kwA6FAJWwGEAVZAOXRAF0BfIA",
+  "notes": "",
+  "attributes": {
+    "4427e92a-7bcc-4192-80de-a8174e2b706b": "Digikey",
+    "f5c95e0f-4e09-45ed-944a-c4d81dbb674a": "505-ADP7142AUJZ-2.5-R7CT-ND"
+  },
+  "created_at": "2026-11-19T16:51:15.432Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T16:51:15.432Z",
+  "updated_by": "canberk ünal"
+}

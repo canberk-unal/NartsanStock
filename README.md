@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **210** kalem, **16.050** adet.
+Toplam **211** kalem, **16.060** adet.
 
 ## Capacitor (62)
 
@@ -82,6 +82,12 @@ _Kayıt yok_
 ## Inductor (0)
 
 _Kayıt yok_
+
+## Linear Regulator (1)
+
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `REG-00001` | ADP7142AUJZ-2.5-R7 | Digikey · 505-ADP7142AUJZ-2.5-R7CT-ND | TSOT-23-5 |  | 10 | 0 |
 
 ## Opamp (0)
 
