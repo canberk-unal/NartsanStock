@@ -2671,5 +2671,27 @@
     "note": "Excel import (DigiKey)",
     "user": "canberk ünal",
     "created_at": "2026-11-19T17:31:54.139Z"
+  },
+  {
+    "id": "42bd4cdd-bd27-42e5-a1dd-0ab29ce38c6f",
+    "component_id": "f80fcc1d-b917-46c7-ab9c-3f46537c1975",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan REF ICs",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T18:36:59.304Z"
+  },
+  {
+    "id": "89d2c409-869c-4e47-b248-c90e1eacb5eb",
+    "component_id": "8e714555-86e8-4661-8b95-227cc4667f4a",
+    "kind": "in",
+    "quantity": 5,
+    "balance": 5,
+    "reference": "Nartsan REF ICs",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T18:36:59.304Z"
   }
 ]

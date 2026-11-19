@@ -1,0 +1,26 @@
+{
+  "id": "8e714555-86e8-4661-8b95-227cc4667f4a",
+  "type_id": "b34cbd14-fcbb-49e9-b4f5-42c0b80e6b30",
+  "stock_code": "REF-00001",
+  "mpn": "ADR421ARMZ",
+  "manufacturer": "Analog Devices Inc.",
+  "description": "IC VREF SERIES 0.12% 8MSOP",
+  "package": "8-TSSOP, 8-MSOP (0.118\", 3.00mm Width)",
+  "location": "",
+  "quantity": 5,
+  "min_quantity": 0,
+  "unit_price": 10.04,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADR420_421_423_425.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADR421ARMZ/936603",
+  "notes": "",
+  "attributes": {
+    "39fa6baa-7cbb-4bc8-99a4-e9b60da9649e": "Fixed",
+    "3744b382-20c9-4d94-8a62-230571405fa7": "DigiKey",
+    "f19cb65e-488a-46b9-af00-c253d45c2dd3": "505-ADR421ARMZ-ND"
+  },
+  "created_at": "2026-11-19T18:36:59.304Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T18:36:59.304Z",
+  "updated_by": "canberk ünal"
+}

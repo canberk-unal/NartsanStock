@@ -1,0 +1,39 @@
+{
+  "id": "b34cbd14-fcbb-49e9-b4f5-42c0b80e6b30",
+  "name": "Reference",
+  "code": "REF",
+  "description": "Voltage, Current Reference ICs",
+  "color": "red",
+  "next_seq": 3,
+  "fields": [
+    {
+      "id": "39fa6baa-7cbb-4bc8-99a4-e9b60da9649e",
+      "label": "Output",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "3744b382-20c9-4d94-8a62-230571405fa7",
+      "label": "Distributor",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "f19cb65e-488a-46b9-af00-c253d45c2dd3",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    }
+  ],
+  "created_at": "2026-11-19T18:15:22.281Z",
+  "updated_at": "2026-11-19T18:15:22.281Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f80fcc1d-b917-46c7-ab9c-3f46537c1975",
+  "type_id": "b34cbd14-fcbb-49e9-b4f5-42c0b80e6b30",
+  "stock_code": "REF-00002",
+  "mpn": "REF3320AIDCKR",
+  "manufacturer": "Texas Instruments",
+  "description": "IC VREF SERIES 0.15% SC70-3",
+  "package": "SC-70, SOT-323",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 1.884,
+  "currency": "USD",
+  "datasheet_url": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3312",
+  "distributor_url": "https://www.digikey.com/en/products/detail/texas-instruments/REF3320AIDCKR/1900135",
+  "notes": "",
+  "attributes": {
+    "39fa6baa-7cbb-4bc8-99a4-e9b60da9649e": "Fixed",
+    "3744b382-20c9-4d94-8a62-230571405fa7": "DigiKey",
+    "f19cb65e-488a-46b9-af00-c253d45c2dd3": "296-48646-1-ND"
+  },
+  "created_at": "2026-11-19T18:36:59.304Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T18:36:59.304Z",
+  "updated_by": "canberk ünal"
+}
