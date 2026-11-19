@@ -4,7 +4,7 @@
   "code": "RES",
   "description": "Resistors",
   "color": "gray",
-  "next_seq": 2,
+  "next_seq": 150,
   "fields": [
     {
       "id": "02d0f569-b79f-4c66-979c-c4561319454b",
@@ -96,17 +96,8 @@
       "options": [],
       "required": false,
       "show_in_table": true
-    },
-    {
-      "id": "654a31b2-a41e-4615-8533-59d2a73d3872",
-      "label": "Description",
-      "data_type": "text",
-      "unit": "",
-      "options": [],
-      "required": false,
-      "show_in_table": true
     }
   ],
   "created_at": "2026-11-18T12:52:42.005Z",
-  "updated_at": "2026-11-19T13:52:20.196Z"
+  "updated_at": "2026-11-19T13:56:10.197Z"
 }

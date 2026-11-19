@@ -1,0 +1,31 @@
+{
+  "id": "02d39c98-7b33-48a8-a162-1bf76e3141d3",
+  "type_id": "d097b6ee-bbdf-4394-81b4-d2d9eb4e2331",
+  "stock_code": "RES-00004",
+  "mpn": "RMCF0603ZT0R00",
+  "manufacturer": "Stackpole Electronics Inc",
+  "description": "RES 0 OHM JUMPER 1/10W 0603",
+  "package": "0603 (1608 Metric)",
+  "location": "",
+  "quantity": 100,
+  "min_quantity": 0,
+  "unit_price": 0.0052,
+  "currency": "USD",
+  "datasheet_url": "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908",
+  "notes": "",
+  "attributes": {
+    "02d0f569-b79f-4c66-979c-c4561319454b": 0,
+    "d3bc8814-3f4b-4a65-8c09-42477d1dac59": "Thick Film",
+    "b0e1bad7-b1fb-4873-a091-a95c5d7bd189": {
+      "min": -55,
+      "max": 155
+    },
+    "377d66c9-d167-4d85-a8ac-46edb29353c4": "Digikey",
+    "b4e332b2-9aa6-401a-8ae5-a1d9858c68ad": "RMCF0603ZT0R00CT-ND"
+  },
+  "created_at": "2026-11-19T13:55:31.406Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T13:55:31.406Z",
+  "updated_by": "canberk ünal"
+}

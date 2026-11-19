@@ -1,0 +1,31 @@
+{
+  "id": "0e254b40-d70d-4f5c-b9ec-ddf4c13ebe77",
+  "type_id": "d097b6ee-bbdf-4394-81b4-d2d9eb4e2331",
+  "stock_code": "RES-00006",
+  "mpn": "ERJ-6GEY0R00V",
+  "manufacturer": "Panasonic Industry",
+  "description": "RES SMD 0 OHM JUMPER 1/8W 0805",
+  "package": "0805 (2012 Metric)",
+  "location": "",
+  "quantity": 100,
+  "min_quantity": 0,
+  "unit_price": 0.0206,
+  "currency": "USD",
+  "datasheet_url": "https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ6GEY0R00V",
+  "distributor_url": "https://www.digikey.com/en/products/detail/panasonic-industry/ERJ-6GEY0R00V/78163",
+  "notes": "",
+  "attributes": {
+    "02d0f569-b79f-4c66-979c-c4561319454b": 0,
+    "d3bc8814-3f4b-4a65-8c09-42477d1dac59": "Thick Film",
+    "b0e1bad7-b1fb-4873-a091-a95c5d7bd189": {
+      "min": -55,
+      "max": 155
+    },
+    "377d66c9-d167-4d85-a8ac-46edb29353c4": "Digikey",
+    "b4e332b2-9aa6-401a-8ae5-a1d9858c68ad": "P0.0ACT-ND"
+  },
+  "created_at": "2026-11-19T13:55:31.406Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T13:55:31.406Z",
+  "updated_by": "canberk ünal"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "90e5d89a-b9a7-4184-9f03-0635fbb8d514",
+  "type_id": "d097b6ee-bbdf-4394-81b4-d2d9eb4e2331",
+  "stock_code": "RES-00033",
+  "mpn": "RC0201FR-07180RL",
+  "manufacturer": "YAGEO",
+  "description": "RES 180 OHM 1% 1/20W 0201",
+  "package": "0201 (0603 Metric)",
+  "location": "",
+  "quantity": 50,
+  "min_quantity": 0,
+  "unit_price": 0.0242,
+  "currency": "USD",
+  "datasheet_url": "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L",
+  "distributor_url": "https://www.digikey.com/en/products/detail/yageo/RC0201FR-07180RL/5280310",
+  "notes": "",
+  "attributes": {
+    "02d0f569-b79f-4c66-979c-c4561319454b": 180,
+    "a1235683-3b25-49cc-a271-3248c8aee949": "1%",
+    "53966f74-d439-4920-a138-b2bc975d32fd": 0.05,
+    "d3bc8814-3f4b-4a65-8c09-42477d1dac59": "Thick Film",
+    "dc7fa72e-9699-4d87-bb78-8bdba4968a48": 200,
+    "b0e1bad7-b1fb-4873-a091-a95c5d7bd189": {
+      "min": -55,
+      "max": 125
+    },
+    "377d66c9-d167-4d85-a8ac-46edb29353c4": "Digikey",
+    "b4e332b2-9aa6-401a-8ae5-a1d9858c68ad": "YAG2450CT-ND"
+  },
+  "created_at": "2026-11-19T13:55:31.406Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T13:55:31.406Z",
+  "updated_by": "canberk ünal"
+}
