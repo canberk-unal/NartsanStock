@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **246** kalem, **16.474** adet.
+Toplam **247** kalem, **16.478** adet.
 
 ## Capacitor (62)
 
@@ -85,6 +85,12 @@ Toplam **246** kalem, **16.474** adet.
 ## Diode (0)
 
 _Kayıt yok_
+
+## Filters (1)
+
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `FIL-00001` | LTC1563-2IGN#TRPBF | 256 Hz · DigiKey · LTC1563-2IGN#TRPBFCT-ND | 16-SSOP (0.154", 3.90mm Width) |  | 4 | 0 |
 
 ## Inductor (0)
 

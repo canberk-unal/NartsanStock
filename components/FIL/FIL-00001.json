@@ -1,0 +1,26 @@
+{
+  "id": "493a48fb-498d-4c5d-b34c-ee1a503c4a68",
+  "type_id": "7613a8ca-bf6c-4d29-b3c5-a8c96af642fb",
+  "stock_code": "FIL-00001",
+  "mpn": "LTC1563-2IGN#TRPBF",
+  "manufacturer": "Analog Devices Inc.",
+  "description": "IC FILTER 256KHZ LOWPASS 16SSOP",
+  "package": "16-SSOP (0.154\", 3.90mm Width)",
+  "location": "",
+  "quantity": 4,
+  "min_quantity": 0,
+  "unit_price": 8.25,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/156323fa.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc/LTC1563-2IGN-TRPBF/958751",
+  "notes": "",
+  "attributes": {
+    "07375811-2b52-4b04-8527-89dde97f1863": 256,
+    "e4bfbe43-65ee-4c75-afc4-315a90fd1595": "DigiKey",
+    "9d0d0694-5fd6-459c-a382-2661da69d476": "LTC1563-2IGN#TRPBFCT-ND"
+  },
+  "created_at": "2026-11-19T18:54:47.147Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T18:54:47.147Z",
+  "updated_by": "canberk ünal"
+}
