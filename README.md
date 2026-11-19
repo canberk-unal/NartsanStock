@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **247** kalem, **16.478** adet.
+Toplam **248** kalem, **16.488** adet.
 
 ## Capacitor (62)
 
@@ -95,6 +95,12 @@ _Kayıt yok_
 ## Inductor (0)
 
 _Kayıt yok_
+
+## Level Shifters (1)
+
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `LEV-00001` | TXS0102VDCUR | Voltage Level · Bidirectional · 1 · 2 · 1,65 … 3,6 V · 2,3 … 5,5 V · DigiKey · 296-TXS0102VDCURCT-ND | 8-VFSOP (0.091", 2.30mm Width) |  | 10 | 0 |
 
 ## Linear Regulator (3)
 

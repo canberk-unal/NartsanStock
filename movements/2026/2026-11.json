@@ -2715,5 +2715,16 @@
     "note": "Excel import (DigiKey)",
     "user": "canberk ünal",
     "created_at": "2026-11-19T18:54:47.147Z"
+  },
+  {
+    "id": "bbf41457-084c-4097-aa1b-35ec540fd7cb",
+    "component_id": "b0f47549-e90d-423f-b9fe-36b81ef1eb75",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Level Shifters",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T19:10:31.518Z"
   }
 ]

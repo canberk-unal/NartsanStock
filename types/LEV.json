@@ -1,0 +1,84 @@
+{
+  "id": "8519cdee-4a27-4ab0-ba32-1a094584de7e",
+  "name": "Level Shifters",
+  "code": "LEV",
+  "description": "Level Shifters, Buffers",
+  "color": "blue",
+  "next_seq": 2,
+  "fields": [
+    {
+      "id": "a2dd5303-aa39-4aab-b140-3c50b120b964",
+      "label": "Translator Type",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "cacbe219-5afa-42ed-bdaa-ff493fa8f789",
+      "label": "Channel Type",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "28f5e3a8-bc5f-462f-9c18-7c26454c638d",
+      "label": "Number of Circuits",
+      "data_type": "number",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "680e7b21-7260-45d7-80e1-3aa2b9d65c6e",
+      "label": "Channels per Circuit",
+      "data_type": "number",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "1a5f5c55-50fd-46ca-a1d9-62d668eef053",
+      "label": "Voltage - VCCA",
+      "data_type": "range",
+      "unit": "V",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "37943c35-9e8e-4e33-b92d-8315b5386b68",
+      "label": "Voltage - VCCB",
+      "data_type": "range",
+      "unit": "V",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "44a0ce36-8286-4691-8835-c0630d60a238",
+      "label": "Distributor",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "de45221a-ddfd-451f-a075-b3a3aa7ce4b8",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    }
+  ],
+  "created_at": "2026-11-19T19:08:46.845Z",
+  "updated_at": "2026-11-19T19:10:12.981Z"
+}

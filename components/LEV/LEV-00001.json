@@ -1,0 +1,37 @@
+{
+  "id": "b0f47549-e90d-423f-b9fe-36b81ef1eb75",
+  "type_id": "8519cdee-4a27-4ab0-ba32-1a094584de7e",
+  "stock_code": "LEV-00001",
+  "mpn": "TXS0102VDCUR",
+  "manufacturer": "Texas Instruments",
+  "description": "IC XLTR VL BIDIR 8-VSSOP",
+  "package": "8-VFSOP (0.091\", 2.30mm Width)",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 0.358,
+  "currency": "USD",
+  "datasheet_url": "https://www.ti.com/lit/ds/symlink/txs0102v.pdf?ts=1727732791421",
+  "distributor_url": "https://www.digikey.com/en/products/detail/texas-instruments/TXS0102VDCUR/25324558",
+  "notes": "",
+  "attributes": {
+    "a2dd5303-aa39-4aab-b140-3c50b120b964": "Voltage Level",
+    "cacbe219-5afa-42ed-bdaa-ff493fa8f789": "Bidirectional",
+    "28f5e3a8-bc5f-462f-9c18-7c26454c638d": 1,
+    "680e7b21-7260-45d7-80e1-3aa2b9d65c6e": 2,
+    "1a5f5c55-50fd-46ca-a1d9-62d668eef053": {
+      "min": 1.65,
+      "max": 3.6
+    },
+    "37943c35-9e8e-4e33-b92d-8315b5386b68": {
+      "min": 2.3,
+      "max": 5.5
+    },
+    "44a0ce36-8286-4691-8835-c0630d60a238": "DigiKey",
+    "de45221a-ddfd-451f-a075-b3a3aa7ce4b8": "296-TXS0102VDCURCT-ND"
+  },
+  "created_at": "2026-11-19T19:10:31.518Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T19:10:31.518Z",
+  "updated_by": "canberk ünal"
+}
