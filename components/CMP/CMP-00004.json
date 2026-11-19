@@ -1,0 +1,25 @@
+{
+  "id": "033a3fa9-8f0c-43bd-898b-c958e43b12bb",
+  "type_id": "e3947998-3cd3-49c8-99cb-99754b3e840b",
+  "stock_code": "CMP-00004",
+  "mpn": "TLV3511DCKR",
+  "manufacturer": "Texas Instruments",
+  "description": "IC COMPARATOR 1CH SC-70-5",
+  "package": "5-TSSOP, SC-70-5, SOT-353",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 1.507,
+  "currency": "USD",
+  "datasheet_url": "https://www.ti.com/lit/ds/symlink/tlv3511.pdf?ts=1737453582048",
+  "distributor_url": "https://www.digikey.com/en/products/detail/texas-instruments/TLV3511DCKR/25891548",
+  "notes": "",
+  "attributes": {
+    "a784045f-5d5a-49e2-b0f7-3b2ccd69b8bc": "DigiKey",
+    "f736cb67-bdeb-4d85-b7bf-a6d04e3613b3": "296-TLV3511DCKRCT-ND"
+  },
+  "created_at": "2026-11-19T17:06:10.005Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T17:06:10.005Z",
+  "updated_by": "canberk ünal"
+}

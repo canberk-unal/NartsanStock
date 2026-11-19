@@ -1,0 +1,25 @@
+{
+  "id": "fcbc6132-f85a-47ae-a212-5ae406a28ec5",
+  "type_id": "e3947998-3cd3-49c8-99cb-99754b3e840b",
+  "stock_code": "CMP-00005",
+  "mpn": "LTC6752ISC6-4#TRMPBF",
+  "manufacturer": "Analog Devices Inc.",
+  "description": "IC COMPARATOR 1CH SC-70-6",
+  "package": "6-TSSOP, SC-88, SOT-363",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 4.832,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc/LTC6752ISC6-4-TRMPBF/5131628",
+  "notes": "",
+  "attributes": {
+    "a784045f-5d5a-49e2-b0f7-3b2ccd69b8bc": "DigiKey",
+    "f736cb67-bdeb-4d85-b7bf-a6d04e3613b3": "505-LTC6752ISC6-4#TRMPBFCT-ND"
+  },
+  "created_at": "2026-11-19T17:06:10.005Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T17:06:10.005Z",
+  "updated_by": "canberk ünal"
+}

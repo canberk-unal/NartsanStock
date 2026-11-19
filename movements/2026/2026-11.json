@@ -2352,5 +2352,71 @@
     "note": "Excel import (DigiKey)",
     "user": "canberk ünal",
     "created_at": "2026-11-19T16:59:25.786Z"
+  },
+  {
+    "id": "449fb7f5-4f04-4158-94e3-40c27f1824c8",
+    "component_id": "d1d6c94d-dc8e-4e9b-bd7b-10343ce4f754",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Comparator",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T17:06:10.005Z"
+  },
+  {
+    "id": "60d59ab8-ba72-485a-bbfb-f5ca62f3d072",
+    "component_id": "c59e7676-b3ed-41b0-83d1-f1009fba4a34",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Comparator",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T17:06:10.005Z"
+  },
+  {
+    "id": "918377dc-2ef2-4669-976a-df4fa8c3f1b1",
+    "component_id": "033a3fa9-8f0c-43bd-898b-c958e43b12bb",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Comparator",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T17:06:10.005Z"
+  },
+  {
+    "id": "c606a75c-77b3-4e6d-a41b-54dffdf08f99",
+    "component_id": "844ac451-2943-46fa-b412-6101e2891418",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Comparator",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T17:06:10.005Z"
+  },
+  {
+    "id": "ee1e64d5-2934-4164-9a63-652e35fd7cda",
+    "component_id": "a59f35d1-12f6-4c27-9922-fae36ddd28cb",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Comparator",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T17:06:10.005Z"
+  },
+  {
+    "id": "f86a3fbb-528b-4b30-a8c2-b5a52f236a6c",
+    "component_id": "fcbc6132-f85a-47ae-a212-5ae406a28ec5",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Comparator",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T17:06:10.005Z"
   }
 ]

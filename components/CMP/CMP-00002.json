@@ -1,0 +1,25 @@
+{
+  "id": "a59f35d1-12f6-4c27-9922-fae36ddd28cb",
+  "type_id": "e3947998-3cd3-49c8-99cb-99754b3e840b",
+  "stock_code": "CMP-00002",
+  "mpn": "TLV3601DBVR",
+  "manufacturer": "Texas Instruments",
+  "description": "IC COMPARATOR 1CH SOT-23-5",
+  "package": "SC-74A, SOT-753",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 4.046,
+  "currency": "USD",
+  "datasheet_url": "https://www.ti.com/lit/ds/symlink/tlv3601.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/texas-instruments/TLV3601DBVR/16669317",
+  "notes": "",
+  "attributes": {
+    "a784045f-5d5a-49e2-b0f7-3b2ccd69b8bc": "DigiKey",
+    "f736cb67-bdeb-4d85-b7bf-a6d04e3613b3": "296-TLV3601DBVRCT-ND"
+  },
+  "created_at": "2026-11-19T17:06:10.005Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T17:06:10.005Z",
+  "updated_by": "canberk ünal"
+}

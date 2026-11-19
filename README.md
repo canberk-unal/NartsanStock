@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **214** kalem, **16.090** adet.
+Toplam **220** kalem, **16.150** adet.
 
 ## Capacitor (62)
 
@@ -71,9 +71,16 @@ Toplam **214** kalem, **16.090** adet.
 | `CAP-00062` | CL10A106MA8NRNC | 10 µF · 25 V · 20% · X5R · -55 … 85 °C · Digikey · 1276-1869-1-ND | 0603 (1608 Metric) |  | 50 | 0 |
 | `CAP-00063` | CL32A476MOJNNNE | 47 µF · 16 V · 20% · X5R · -55 … 85 °C · Digikey · 1276-CL32A476MOJNNNECT-ND | 1210 (3225 Metric) |  | 10 | 0 |
 
-## Comparator (0)
+## Comparator (6)
 
-_Kayıt yok_
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `CMP-00001` | TLV3601DCKR | DigiKey · 296-TLV3601DCKRCT-ND | 5-TSSOP, SC-70-5, SOT-353 |  | 10 | 0 |
+| `CMP-00002` | TLV3601DBVR | DigiKey · 296-TLV3601DBVRCT-ND | SC-74A, SOT-753 |  | 10 | 0 |
+| `CMP-00003` | TLV3603DCKR | DigiKey · 296-TLV3603DCKRCT-ND | 6-TSSOP, SC-88, SOT-363 |  | 10 | 0 |
+| `CMP-00004` | TLV3511DCKR | DigiKey · 296-TLV3511DCKRCT-ND | 5-TSSOP, SC-70-5, SOT-353 |  | 10 | 0 |
+| `CMP-00005` | LTC6752ISC6-4#TRMPBF | DigiKey · 505-LTC6752ISC6-4#TRMPBFCT-ND | 6-TSSOP, SC-88, SOT-363 |  | 10 | 0 |
+| `CMP-00006` | MAX9010EXT+T | DigiKey · MAX9010EXT+TCT-ND | 6-TSSOP, SC-88, SOT-363 |  | 10 | 0 |
 
 ## Diode (0)
 
