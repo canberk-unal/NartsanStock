@@ -1,0 +1,25 @@
+{
+  "id": "94334107-1ae3-435e-a099-b33290678b6b",
+  "type_id": "784a46d5-e344-458a-9708-b7d9a19b16ab",
+  "stock_code": "REG-00006",
+  "mpn": "MIC5203-4.5YM5-TR",
+  "manufacturer": "Microchip Technology",
+  "description": "IC REG LINEAR 4.5V 80MA SOT23-5",
+  "package": "SC-74A, SOT-753",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 0.58,
+  "currency": "USD",
+  "datasheet_url": "https://ww1.microchip.com/downloads/en/DeviceDoc/mic5203.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/microchip-technology/MIC5203-4-5YM5-TR/1030280",
+  "notes": "",
+  "attributes": {
+    "4427e92a-7bcc-4192-80de-a8174e2b706b": "DigiKey",
+    "f5c95e0f-4e09-45ed-944a-c4d81dbb674a": "MIC5203-4.5YM5-CT-ND"
+  },
+  "created_at": "2026-11-19T16:55:04.220Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T16:55:04.220Z",
+  "updated_by": "canberk ünal"
+}

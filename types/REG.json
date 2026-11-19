@@ -3,8 +3,8 @@
   "name": "Linear Regulator",
   "code": "REG",
   "description": "Linear Regulators",
-  "color": "blue",
-  "next_seq": 2,
+  "color": "red",
+  "next_seq": 7,
   "fields": [
     {
       "id": "4427e92a-7bcc-4192-80de-a8174e2b706b",
@@ -26,5 +26,5 @@
     }
   ],
   "created_at": "2026-11-19T16:47:00.382Z",
-  "updated_at": "2026-11-19T16:49:20.581Z"
+  "updated_at": "2026-11-19T16:57:30.118Z"
 }

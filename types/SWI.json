@@ -1,0 +1,30 @@
+{
+  "id": "5c609406-0b89-4f07-937b-55d508cfc781",
+  "name": "Switching Regulator",
+  "code": "SWI",
+  "description": "Switching Regulators",
+  "color": "red",
+  "next_seq": 2,
+  "fields": [
+    {
+      "id": "fb8e67d1-ea4f-4c8f-87df-cfa3ea1d58e9",
+      "label": "Distributor",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "793bbb72-7ac2-438f-9f2c-a8e67e8f2365",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    }
+  ],
+  "created_at": "2026-11-19T16:57:22.258Z",
+  "updated_at": "2026-11-19T16:57:22.258Z"
+}

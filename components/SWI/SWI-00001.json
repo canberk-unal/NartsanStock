@@ -1,0 +1,25 @@
+{
+  "id": "820b2a26-9fcd-4ce3-9a35-705c86bd0315",
+  "type_id": "5c609406-0b89-4f07-937b-55d508cfc781",
+  "stock_code": "SWI-00001",
+  "mpn": "LM2776DBVR",
+  "manufacturer": "Texas Instruments",
+  "description": "IC REG CHARGE PUMP 200MA SOT23-6",
+  "package": "SOT-23-6",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 1.018,
+  "currency": "USD",
+  "datasheet_url": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm2776",
+  "distributor_url": "https://www.digikey.com/en/products/detail/texas-instruments/LM2776DBVR/5356685",
+  "notes": "",
+  "attributes": {
+    "fb8e67d1-ea4f-4c8f-87df-cfa3ea1d58e9": "DigiKey",
+    "793bbb72-7ac2-438f-9f2c-a8e67e8f2365": "296-43957-1-ND"
+  },
+  "created_at": "2026-11-19T16:59:25.786Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T16:59:25.786Z",
+  "updated_by": "canberk ünal"
+}

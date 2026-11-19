@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **211** kalem, **16.060** adet.
+Toplam **214** kalem, **16.090** adet.
 
 ## Capacitor (62)
 
@@ -83,11 +83,13 @@ _Kayıt yok_
 
 _Kayıt yok_
 
-## Linear Regulator (1)
+## Linear Regulator (3)
 
 | Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
 |---|---|---|---|---|--:|--:|
-| `REG-00001` | ADP7142AUJZ-2.5-R7 | Digikey · 505-ADP7142AUJZ-2.5-R7CT-ND | TSOT-23-5 |  | 10 | 0 |
+| `REG-00003` | ADP7142AUJZ-2.5-R7 | DigiKey · 505-ADP7142AUJZ-2.5-R7CT-ND | SOT-23-5 Thin, TSOT-23-5 |  | 10 | 0 |
+| `REG-00004` | ADP7182AUJZ-2.5-R7 | DigiKey · 505-ADP7182AUJZ-2.5-R7CT-ND | SOT-23-5 Thin, TSOT-23-5 |  | 10 | 0 |
+| `REG-00006` | MIC5203-4.5YM5-TR | DigiKey · MIC5203-4.5YM5-CT-ND | SC-74A, SOT-753 |  | 10 | 0 |
 
 ## Opamp (0)
 
@@ -245,6 +247,12 @@ _Kayıt yok_
 | `RES-00147` | RC0603FR-071M33L | 1,33 MΩ · 1% · 100 mW · 100 ppm/C · -55 … 155 °C · Digikey · 13-RC0603FR-071M33LCT-ND | 0603 (1608 Metric) |  | 100 | 0 |
 | `RES-00148` | RMCF0603FT2M10 | 2,1 MΩ · 1% · 100 mW · 200 ppm/C · -55 … 155 °C · Digikey · RMCF0603FT2M10CT-ND | 0603 (1608 Metric) |  | 100 | 0 |
 | `RES-00149` | RMCF0603FT4M99 | 4,99 MΩ · 1% · 100 mW · 200 ppm/C · -55 … 155 °C · Digikey · RMCF0603FT4M99CT-ND | 0603 (1608 Metric) |  | 100 | 0 |
+
+## Switching Regulator (1)
+
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `SWI-00001` | LM2776DBVR | DigiKey · 296-43957-1-ND | SOT-23-6 |  | 10 | 0 |
 
 ## Transistor (0)
 
