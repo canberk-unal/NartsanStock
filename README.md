@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **245** kalem, **16.469** adet.
+Toplam **246** kalem, **16.474** adet.
 
 ## Capacitor (62)
 
@@ -290,6 +290,12 @@ _Kayıt yok_
 | Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
 |---|---|---|---|---|--:|--:|
 | `SEN-00001` | MAX6613MXK+T | Analog Voltage · DigiKey · MAX6613MXK+TCT-ND | 5-TSSOP, SC-70-5, SOT-353 |  | 10 | 0 |
+
+## Special Amplifiers (1)
+
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `SPE-00001` | LMH34400IDRLR | Transimpedance Amplifier · DigiKey · 296-LMH34400IDRLRCT-ND | SOT-563, SOT-666 |  | 5 | 0 |
 
 ## Switching Regulator (1)
 

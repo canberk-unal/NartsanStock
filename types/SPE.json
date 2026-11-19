@@ -1,0 +1,39 @@
+{
+  "id": "767ca6c0-7f70-4878-97ab-e5f65f9c90d0",
+  "name": "Special Amplifiers",
+  "code": "SPE",
+  "description": "Special Purpose Amplifiers",
+  "color": "blue",
+  "next_seq": 2,
+  "fields": [
+    {
+      "id": "37d990fb-8bb5-4456-bded-847d0dbe52b7",
+      "label": "Type",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "7882e22e-7b28-46c8-bdb8-6919fde41abf",
+      "label": "Distributor",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "8163b6de-4abf-40f4-ba64-e5f441591724",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    }
+  ],
+  "created_at": "2026-11-19T18:40:06.050Z",
+  "updated_at": "2026-11-19T18:41:25.039Z"
+}

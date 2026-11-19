@@ -1,0 +1,26 @@
+{
+  "id": "1b354d1f-b78c-4429-b258-62a547510f17",
+  "type_id": "767ca6c0-7f70-4878-97ab-e5f65f9c90d0",
+  "stock_code": "SPE-00001",
+  "mpn": "LMH34400IDRLR",
+  "manufacturer": "Texas Instruments",
+  "description": "IC AMP SPECIAL SOT-563",
+  "package": "SOT-563, SOT-666",
+  "location": "",
+  "quantity": 5,
+  "min_quantity": 0,
+  "unit_price": 4.26,
+  "currency": "USD",
+  "datasheet_url": "https://www.ti.com/lit/ds/symlink/lmh34400.pdf?ts=1694791171195&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DLMH34400IDRLR%2526nr%253D2",
+  "distributor_url": "https://www.digikey.com/en/products/detail/texas-instruments/LMH34400IDRLR/18159463",
+  "notes": "",
+  "attributes": {
+    "37d990fb-8bb5-4456-bded-847d0dbe52b7": "Transimpedance Amplifier",
+    "7882e22e-7b28-46c8-bdb8-6919fde41abf": "DigiKey",
+    "8163b6de-4abf-40f4-ba64-e5f441591724": "296-LMH34400IDRLRCT-ND"
+  },
+  "created_at": "2026-11-19T18:42:29.767Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T18:42:29.767Z",
+  "updated_by": "canberk ünal"
+}
