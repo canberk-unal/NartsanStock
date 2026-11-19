@@ -1,0 +1,33 @@
+{
+  "id": "869e7bd8-e9de-4b51-b8d6-ceefbc3b940f",
+  "type_id": "526538c0-515a-4981-963d-1995582cced7",
+  "stock_code": "CAP-00053",
+  "mpn": "CC0805KKX7RYBB104",
+  "manufacturer": "YAGEO",
+  "description": "CAP CER 0.1UF 250V X7R 0805",
+  "package": "0805 (2012 Metric)",
+  "location": "",
+  "quantity": 50,
+  "min_quantity": 0,
+  "unit_price": 0.085,
+  "currency": "USD",
+  "datasheet_url": "https://yageogroup.com/content/datasheet/asset/file/UPY-GPHC_X7R_6_3V-TO-250V",
+  "distributor_url": "https://www.digikey.com/en/products/detail/yageo/CC0805KKX7RYBB104/16797492",
+  "notes": "",
+  "attributes": {
+    "8316f3bd-32fd-4d1e-bddf-d5775bc26852": 1e-7,
+    "1bfcb9cb-ec96-441a-b62e-c42c1bba4488": 250,
+    "c0a6a204-a6cd-4989-81f4-01b9f8a4555b": "10%",
+    "8b9a6369-e792-4169-9cf2-444a7ca10039": "X7R",
+    "7eb29944-283e-41da-b9a9-84b1894c37bc": {
+      "min": -55,
+      "max": 125
+    },
+    "579d8698-0f45-44fe-aecd-308c54f03bfd": "Digikey",
+    "3967cb0b-0eca-4633-8268-1c383fd0fd1a": "13-CC0805KKX7RYBB104CT-ND"
+  },
+  "created_at": "2026-11-19T14:22:33.415Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T14:22:33.415Z",
+  "updated_by": "canberk ünal"
+}

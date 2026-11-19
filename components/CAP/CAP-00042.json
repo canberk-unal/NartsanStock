@@ -1,0 +1,33 @@
+{
+  "id": "a588ba74-1b4a-46d3-9fd9-39544431d72b",
+  "type_id": "526538c0-515a-4981-963d-1995582cced7",
+  "stock_code": "CAP-00042",
+  "mpn": "TMK063CG102JT-F",
+  "manufacturer": "Taiyo Yuden",
+  "description": "CAP CER 1000PF 25V C0G/NP0 0201",
+  "package": "0201 (0603 Metric)",
+  "location": "",
+  "quantity": 100,
+  "min_quantity": 0,
+  "unit_price": 0.0267,
+  "currency": "USD",
+  "datasheet_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2090/TMK063CG102JT-F_SS.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/taiyo-yuden/TMK063CG102JT-F/7066032",
+  "notes": "",
+  "attributes": {
+    "8316f3bd-32fd-4d1e-bddf-d5775bc26852": 1e-9,
+    "1bfcb9cb-ec96-441a-b62e-c42c1bba4488": 25,
+    "c0a6a204-a6cd-4989-81f4-01b9f8a4555b": "5%",
+    "8b9a6369-e792-4169-9cf2-444a7ca10039": "C0G/NP0",
+    "7eb29944-283e-41da-b9a9-84b1894c37bc": {
+      "min": -55,
+      "max": 125
+    },
+    "579d8698-0f45-44fe-aecd-308c54f03bfd": "Digikey",
+    "3967cb0b-0eca-4633-8268-1c383fd0fd1a": "587-5297-1-ND"
+  },
+  "created_at": "2026-11-19T14:22:33.415Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T14:22:33.415Z",
+  "updated_by": "canberk ünal"
+}

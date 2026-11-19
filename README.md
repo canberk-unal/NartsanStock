@@ -2,11 +2,74 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **148** kalem, **10.670** adet.
+Toplam **210** kalem, **16.050** adet.
 
-## Capacitor (0)
+## Capacitor (62)
 
-_Kayıt yok_
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `CAP-00002` | CBR04C108B5GAC | 100 fF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 399-6153-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00003` | CQ0402BRNPO9BNR20 | 200 fF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 13-CQ0402BRNPO9BNR20CT-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00004` | CQ0402BRNPO9BNR40 | 400 fF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 13-CQ0402BRNPO9BNR40CT-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00005` | 885392005003 | 400 fF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 732-13228-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00006` | CC0402BRNPO9BNR50 | 500 fF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-1631-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00007` | CQ0402BRNPO9BNR60 | 600 fF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 13-CQ0402BRNPO9BNR60CT-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00008` | CC0402BRNPO9BNR80 | 800 fF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-3711-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00009` | CQ0402BRNPO9BNR80 | 800 fF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 13-CQ0402BRNPO9BNR80CT-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00010` | CL03C010BA3GNNC | 1 pF · 25 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1361-1-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00011` | CC0201BRNPO9BN1R0 | 1 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-3291-1-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00012` | CC0402BRNPO9BN1R0 | 1 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-3613-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00013` | GRM1555C1H1R0BA01D | 1 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 490-6206-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00014` | CQ0402BRNPO9BN1R2 | 1,2 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 13-CQ0402BRNPO9BN1R2CT-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00015` | CL05C1R5BB5NNNC | 1,5 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1656-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00016` | CC0402BRNPO9BN1R8 | 1,8 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-1616-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00017` | CL03C020BA3GNNC | 2 pF · 25 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1363-1-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00018` | CC0402BRNPO9BN2R0 | 2 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-1617-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00019` | CC0402BRNPO9BN2R4 | 2,4 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-3703-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00020` | CC0402BRNPO9BN3R0 | 3 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-1620-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00021` | CC0201BRNPO8BN3R0 | 3 pF · 25 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 13-CC0201BRNPO8BN3R0CT-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00022` | CC0402BRNPO9BN3R3 | 3,3 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-1621-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00023` | CC0201BRNPO8BN4R7 | 4,7 pF · 25 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-3662-1-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00024` | CC0402BRNPO9BN4R7 | 4,7 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-1624-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00025` | CBR04C479B2GAC | 4,7 pF · 200 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 399-16317-1-ND | 0402 (1005 Metric) |  | 20 | 0 |
+| `CAP-00026` | CL03C6R8BA3GNNC | 6,8 pF · 25 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1430-1-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00027` | CC0201BRNPO9BN8R2 | 8,2 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 13-CC0201BRNPO9BN8R2CT-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00028` | CC0402BRNPO9BN8R2 | 8,2 pF · 50 V · +/-0.1pF · C0G/NP0 · -55 … 125 °C · Digikey · 311-1628-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00029` | CC0201FRNPO9BN100 | 10 pF · 50 V · 1% · C0G/NP0 · -55 … 125 °C · Digikey · 13-CC0201FRNPO9BN100CT-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00030` | CL05C100JB5NNNC | 10 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1139-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00031` | CL05C150JB51PNC | 15 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 1276-6611-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00032` | CC0201FRNPO9BN220 | 22 pF · 50 V · 1% · C0G/NP0 · -55 … 125 °C · Digikey · 13-CC0201FRNPO9BN220CT-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00033` | CL05C470JB51PNC | 47 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 1276-6610-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00034` | CL05C470JB5NNNC | 47 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1699-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00035` | CC0402FRNPO9BN820 | 82 pF · 50 V · 1% · C0G/NP0 · -55 … 125 °C · Digikey · 311-3735-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00036` | CGA1A2C0G1H101J030BA | 100 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 445-9061-1-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00037` | C0402C101J2GACAUTO | 100 pF · 200 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 399-11551-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00038` | CL05C101JB5NNNC | 100 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1025-1-ND | 0402 (1005 Metric) |  | 200 | 0 |
+| `CAP-00039` | CC0402JRNPO9BN131 | 130 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 13-CC0402JRNPO9BN131CT-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00040` | CL05C471JB5NNNC | 470 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1117-1-ND | 0402 (1005 Metric) |  | 150 | 0 |
+| `CAP-00041` | CL05C681JB5NNNC | 680 pF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 1276-1717-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00042` | TMK063CG102JT-F | 1 nF · 25 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 587-5297-1-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00043` | C1005C0G1H102J050BA | 1 nF · 50 V · 5% · C0G/NP0 · -55 … 125 °C · Digikey · 445-6846-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00044` | C0402C103K5RACTU | 10 nF · 50 V · 10% · X7R · -55 … 125 °C · Digikey · 399-C0402C103K5RACTUCT-ND | 0402 (1005 Metric) |  | 200 | 0 |
+| `CAP-00045` | C0603C103K2RECAUTO | 10 nF · 200 V · 10% · X7R · -55 … 125 °C · Digikey · 399-14191-1-ND | 0603 (1608 Metric) |  | 50 | 0 |
+| `CAP-00046` | C0402C223K5RAC7411 | 22 nF · 50 V · 10% · X7R · -55 … 125 °C · Digikey · 399-C0402C223K5RAC7411CT-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00047` | CGA2B3X7R1H473K050BB | 47 nF · 50 V · 10% · X7R · -55 … 125 °C · Digikey · 445-6897-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00048` | C0805C473K2RECAUTO | 47 nF · 200 V · 10% · X7R · -55 … 125 °C · Digikey · 399-C0805C473K2RECAUTOCT-ND | 0805 (2012 Metric) |  | 50 | 0 |
+| `CAP-00049` | CL03A104KA3NNNC | 100 nF · 25 V · 10% · X5R · -55 … 85 °C · Digikey · 1276-1318-1-ND | 0201 (0603 Metric) |  | 100 | 0 |
+| `CAP-00050` | CC0402KRX7R9BB104 | 100 nF · 50 V · 10% · X7R · -55 … 125 °C · Digikey · 311-3566-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00051` | CL05B104KA5NNNC | 100 nF · 25 V · 10% · X7R · -55 … 125 °C · Digikey · 1276-6720-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00052` | CL05B104KB5NNNC | 100 nF · 50 V · 10% · X7R · -55 … 125 °C · Digikey · 1276-CL05B104KB5NNNCCT-ND | 0402 (1005 Metric) |  | 300 | 0 |
+| `CAP-00053` | CC0805KKX7RYBB104 | 100 nF · 250 V · 10% · X7R · -55 … 125 °C · Digikey · 13-CC0805KKX7RYBB104CT-ND | 0805 (2012 Metric) |  | 50 | 0 |
+| `CAP-00054` | C0603X5R1C224K030BC | 220 nF · 16 V · 10% · X5R · -55 … 85 °C · Digikey · 445-7315-1-ND | 0201 (0603 Metric) |  | 50 | 0 |
+| `CAP-00055` | EMK063BBJ474KPLF | 470 nF · 16 V · 10% · X5R · -55 … 85 °C · Digikey · 587-6264-1-ND | 0201 (0603 Metric) |  | 50 | 0 |
+| `CAP-00056` | MEASE063BB5105MF1B33 | 1 µF · 16 V · 20% · X5R · -55 … 85 °C · Digikey · 587-MEASE063BB5105MF1B33CT-ND | 0201 (0603 Metric) |  | 50 | 0 |
+| `CAP-00057` | CL05A105KA5NQNC | 1 µF · 25 V · 10% · X5R · -55 … 85 °C · Digikey · 1276-1445-1-ND | 0402 (1005 Metric) |  | 100 | 0 |
+| `CAP-00058` | C1005X5R1V105K050BC | 1 µF · 35 V · 10% · X5R · -55 … 85 °C · Digikey · 445-9073-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00059` | C1005X5R1V225K050BC | 2,2 µF · 35 V · 10% · X5R · -55 … 85 °C · Digikey · 445-9028-1-ND | 0402 (1005 Metric) |  | 50 | 0 |
+| `CAP-00060` | CL10A225KL8NNNC | 2,2 µF · 35 V · 10% · X5R · -55 … 85 °C · Digikey · 1276-6726-1-ND | 0603 (1608 Metric) |  | 50 | 0 |
+| `CAP-00061` | C1608X5R1E475K080AC | 4,7 µF · 25 V · 10% · X5R · -55 … 85 °C · Digikey · 445-9050-1-ND | 0603 (1608 Metric) |  | 50 | 0 |
+| `CAP-00062` | CL10A106MA8NRNC | 10 µF · 25 V · 20% · X5R · -55 … 85 °C · Digikey · 1276-1869-1-ND | 0603 (1608 Metric) |  | 50 | 0 |
+| `CAP-00063` | CL32A476MOJNNNE | 47 µF · 16 V · 20% · X5R · -55 … 85 °C · Digikey · 1276-CL32A476MOJNNNECT-ND | 1210 (3225 Metric) |  | 10 | 0 |
 
 ## Comparator (0)
 

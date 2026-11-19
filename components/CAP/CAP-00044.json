@@ -1,0 +1,33 @@
+{
+  "id": "f54f8076-e3b3-41ae-9a12-5d9050526163",
+  "type_id": "526538c0-515a-4981-963d-1995582cced7",
+  "stock_code": "CAP-00044",
+  "mpn": "C0402C103K5RACTU",
+  "manufacturer": "KEMET",
+  "description": "CAP CER 10000PF 50V X7R 0402",
+  "package": "0402 (1005 Metric)",
+  "location": "",
+  "quantity": 200,
+  "min_quantity": 0,
+  "unit_price": 0.0234,
+  "currency": "USD",
+  "datasheet_url": "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD",
+  "distributor_url": "https://www.digikey.com/en/products/detail/kemet/C0402C103K5RACTU/501968",
+  "notes": "",
+  "attributes": {
+    "8316f3bd-32fd-4d1e-bddf-d5775bc26852": 1e-8,
+    "1bfcb9cb-ec96-441a-b62e-c42c1bba4488": 50,
+    "c0a6a204-a6cd-4989-81f4-01b9f8a4555b": "10%",
+    "8b9a6369-e792-4169-9cf2-444a7ca10039": "X7R",
+    "7eb29944-283e-41da-b9a9-84b1894c37bc": {
+      "min": -55,
+      "max": 125
+    },
+    "579d8698-0f45-44fe-aecd-308c54f03bfd": "Digikey",
+    "3967cb0b-0eca-4633-8268-1c383fd0fd1a": "399-C0402C103K5RACTUCT-ND"
+  },
+  "created_at": "2026-11-19T14:22:33.415Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T14:22:33.415Z",
+  "updated_by": "canberk ünal"
+}

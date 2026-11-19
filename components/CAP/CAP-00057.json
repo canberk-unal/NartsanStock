@@ -1,0 +1,33 @@
+{
+  "id": "34f62f92-3c35-46a0-8d9b-c61d33b74475",
+  "type_id": "526538c0-515a-4981-963d-1995582cced7",
+  "stock_code": "CAP-00057",
+  "mpn": "CL05A105KA5NQNC",
+  "manufacturer": "Samsung Electro-Mechanics",
+  "description": "CAP CER 1UF 25V X5R 0402",
+  "package": "0402 (1005 Metric)",
+  "location": "",
+  "quantity": 100,
+  "min_quantity": 0,
+  "unit_price": 0.0675,
+  "currency": "USD",
+  "datasheet_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL05A105KA5NQNC.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A105KA5NQNC/3887103",
+  "notes": "",
+  "attributes": {
+    "8316f3bd-32fd-4d1e-bddf-d5775bc26852": 0.000001,
+    "1bfcb9cb-ec96-441a-b62e-c42c1bba4488": 25,
+    "c0a6a204-a6cd-4989-81f4-01b9f8a4555b": "10%",
+    "8b9a6369-e792-4169-9cf2-444a7ca10039": "X5R",
+    "7eb29944-283e-41da-b9a9-84b1894c37bc": {
+      "min": -55,
+      "max": 85
+    },
+    "579d8698-0f45-44fe-aecd-308c54f03bfd": "Digikey",
+    "3967cb0b-0eca-4633-8268-1c383fd0fd1a": "1276-1445-1-ND"
+  },
+  "created_at": "2026-11-19T14:22:33.415Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T14:22:33.415Z",
+  "updated_by": "canberk ünal"
+}
