@@ -1,0 +1,26 @@
+{
+  "id": "a0285de0-d5d1-440d-aeee-0788683950ff",
+  "type_id": "0407dfb1-385a-4869-b2f0-3172aa4b1598",
+  "stock_code": "SEN-00001",
+  "mpn": "MAX6613MXK+T",
+  "manufacturer": "Analog Devices Inc./Maxim Integrated",
+  "description": "SENSOR ANALOG -55C-130C SC70-5",
+  "package": "5-TSSOP, SC-70-5, SOT-353",
+  "location": "",
+  "quantity": 10,
+  "min_quantity": 0,
+  "unit_price": 1.427,
+  "currency": "USD",
+  "datasheet_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX6613.pdf",
+  "distributor_url": "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX6613MXK-T/1520344",
+  "notes": "",
+  "attributes": {
+    "c03bd8b9-fae7-47d6-8b9b-7ea2477ccd2e": "Analog Voltage",
+    "2a29e137-117d-46d2-9b39-28e7008991e7": "DigiKey",
+    "b878d334-24b3-435f-9d0b-b0af68facaae": "MAX6613MXK+TCT-ND"
+  },
+  "created_at": "2026-11-19T17:31:54.139Z",
+  "created_by": "canberk ünal",
+  "updated_at": "2026-11-19T17:31:54.139Z",
+  "updated_by": "canberk ünal"
+}

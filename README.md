@@ -2,7 +2,7 @@
 
 Bu depo **NARTSTOCK** masaüstü uygulaması tarafından yönetilir. Dosyaları elle düzenlemeyin.
 
-Toplam **242** kalem, **16.444** adet.
+Toplam **243** kalem, **16.454** adet.
 
 ## Capacitor (62)
 
@@ -277,6 +277,12 @@ _Kayıt yok_
 | `RES-00147` | RC0603FR-071M33L | 1,33 MΩ · 1% · 100 mW · 100 ppm/C · -55 … 155 °C · Digikey · 13-RC0603FR-071M33LCT-ND | 0603 (1608 Metric) |  | 100 | 0 |
 | `RES-00148` | RMCF0603FT2M10 | 2,1 MΩ · 1% · 100 mW · 200 ppm/C · -55 … 155 °C · Digikey · RMCF0603FT2M10CT-ND | 0603 (1608 Metric) |  | 100 | 0 |
 | `RES-00149` | RMCF0603FT4M99 | 4,99 MΩ · 1% · 100 mW · 200 ppm/C · -55 … 155 °C · Digikey · RMCF0603FT4M99CT-ND | 0603 (1608 Metric) |  | 100 | 0 |
+
+## Sensor (1)
+
+| Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
+|---|---|---|---|---|--:|--:|
+| `SEN-00001` | MAX6613MXK+T | Analog Voltage · DigiKey · MAX6613MXK+TCT-ND | 5-TSSOP, SC-70-5, SOT-353 |  | 10 | 0 |
 
 ## Switching Regulator (1)
 

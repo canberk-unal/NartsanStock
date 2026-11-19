@@ -2660,5 +2660,16 @@
     "note": "Excel import (DigiKey)",
     "user": "canberk ünal",
     "created_at": "2026-11-19T17:22:30.051Z"
+  },
+  {
+    "id": "ab492107-0ae9-4991-973a-2e1d61a94b01",
+    "component_id": "a0285de0-d5d1-440d-aeee-0788683950ff",
+    "kind": "in",
+    "quantity": 10,
+    "balance": 10,
+    "reference": "Nartsan Sensor",
+    "note": "Excel import (DigiKey)",
+    "user": "canberk ünal",
+    "created_at": "2026-11-19T17:31:54.139Z"
   }
 ]

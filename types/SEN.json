@@ -1,0 +1,39 @@
+{
+  "id": "0407dfb1-385a-4869-b2f0-3172aa4b1598",
+  "name": "Sensor",
+  "code": "SEN",
+  "description": "Temperature Sensors",
+  "color": "green",
+  "next_seq": 2,
+  "fields": [
+    {
+      "id": "c03bd8b9-fae7-47d6-8b9b-7ea2477ccd2e",
+      "label": "Output Type",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "2a29e137-117d-46d2-9b39-28e7008991e7",
+      "label": "Distributor",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    },
+    {
+      "id": "b878d334-24b3-435f-9d0b-b0af68facaae",
+      "label": "Distributor Part#",
+      "data_type": "text",
+      "unit": "",
+      "options": [],
+      "required": false,
+      "show_in_table": true
+    }
+  ],
+  "created_at": "2026-11-19T17:27:55.033Z",
+  "updated_at": "2026-11-19T17:28:13.793Z"
+}
