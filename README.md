@@ -160,7 +160,7 @@ _Kayıt yok_
 
 | Stok Kodu | Parça No | Özellikler | Kılıf | Konum | Miktar | Min. |
 |---|---|---|---|---|--:|--:|
-| `POT-00001` | AD5241BRUZ10 | 256 · 10 Ω · I2C · DigiKey · AD5241BRUZ10-ND | 14-TSSOP (0.173", 4.40mm Width) |  | 10 | 0 |
+| `POT-00001` | AD5241BRUZ10 | 256 · 10 kΩ · I2C · DigiKey · AD5241BRUZ10-ND | 14-TSSOP (0.173", 4.40mm Width) |  | 10 | 0 |
 
 ## Reference (2)
 

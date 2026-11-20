@@ -16,13 +16,13 @@
   "notes": "",
   "attributes": {
     "b6c07bba-de92-4ee6-beb8-54d0d3731772": 256,
-    "359cdc70-9b88-4b5c-aef2-aabbfc70567a": 10,
+    "03be6cbb-f60f-4da0-9a96-a7dfd725b4ee": 10000,
     "23c9d216-304a-4c45-9380-6bbd68aad898": "I2C",
     "b5f61bbc-a96b-4f52-91ed-e05c4afd3dca": "DigiKey",
     "90dcbb08-9605-4378-b836-73220129e19e": "AD5241BRUZ10-ND"
   },
   "created_at": "2026-11-19T19:21:52.712Z",
   "created_by": "canberk ünal",
-  "updated_at": "2026-11-19T19:21:52.712Z",
+  "updated_at": "2026-11-20T08:04:40.050Z",
   "updated_by": "canberk ünal"
 }
